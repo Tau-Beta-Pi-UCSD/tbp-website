@@ -1,0 +1,133 @@
+import React, { Component } from 'react'
+import Events from '../components/Events'
+import NavBar from '../components/NavBar'
+export class Home extends Component
+{
+    render ()
+    {
+        return (
+            <>
+                <head>
+                    <title>Tau Beta Pi, California Psi</title>
+                </head>
+                <NavBar />
+                <div id="wrapper">
+
+                    <section id="intro" class="wrapper style1 fullscreen fade-up">
+                        <div class="inner">
+                            <h1>Tau Beta Pi, California Psi</h1>
+                            <h3>The Premier Engineering Honor Society at UCSD</h3>
+                            <p>Most prominent engineering honor society since 1994. Focusing on serving our members and the
+                            public to promote excellence in engineering. Only the top 1/8th of the Junior class and top 1/5th of
+					the Senior class is invited.</p>
+                            <ul class="actions">
+                                <li><a href="#join" class="button scrolly">Learn how to join</a></li>
+                                <li><a href="https://tbp.ucsd.edu/points" class="button scrolly">Point Tracking App</a></li>
+                                <li><a href="requirements.html" class="button scrolly"></a></li>
+                                <li><a href="#contact" class="button scrolly">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </section>
+
+                    <section id="who" class="wrapper style2 spotlights">
+                        <section>
+                            <div class="image"><img src="images/DSC_0033.JPG" alt="" data-position="25% 25%" />
+                            </div>
+                            <div class="content">
+                                <div class="inner">
+                                    <h2>Who We Are</h2>
+                                    <p>We are the UC San Diego chapter of Tau Beta Pi, one of the top three honor societies in the
+                                    nation.
+                                    Our Officers keep our chapter active and help promote the future growth of our chapter by
+                                    nurturing our integrity, character, and charitability through hosting events.
+						</p>
+                                    <ul class="actions">
+                                        <li><a href="culture" class="button">Explore Our Chapter</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </section>
+                    </section>
+
+                    <section id="join" class="wrapper style1 spotlights">
+                        <section>
+                            <a href="initiation" class="image"><img src="images/DSC_0015.JPG" alt=""
+                                data-position="center center" /></a>
+                            <div class="content">
+                                <div class="inner">
+                                    <h2>Invitations</h2>
+                                    <p>Invitations are sent to students in the <strong>top 1/8th of the Junior class</strong> and
+							<strong>top 1/5th of the Senior class</strong> during the first 2 weeks of Fall and Winter
+							quarter.
+							After being invited its up to you to initiate.</p>
+                                    <ul class="actions">
+                                        <li><a href="initiation" class="button">Explore Initiation</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </section>
+                        <section>
+                            <a href="membership" class="image"><img src="images/DSC_0633.JPG" alt=""
+                                data-position="top center" /></a>
+                            <div class="content">
+                                <div class="inner">
+                                    <h2>Why Join?</h2>
+                                    <p>Membership provides you access to our events and networking opportunities that will help you
+							succeed in your future career.</p>
+                                    <ul class="actions">
+                                        <li><a href="membership" class="button">Explore Membership Benefits</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </section>
+                    </section>
+
+                    <Events />
+
+                    <section id="contact" class="wrapper style1 fade-up">
+                        <div class="inner">
+                            <h2>Contact Us</h2>
+                            <ul class="actions">
+                                <li><a href="mailto:tbp@ucsd.edu?Subject=General%20Questions" target="_top" class="button">General
+							Questions</a></li>
+                                <li><a href="mailto:tbp@ucsd.edu?Subject=Company%20Positions" target="_top" class="button">Advertise
+							Company Positions</a></li>
+                                <li><a href="mailto:tbp@ucsd.edu?Subject=Company%20info" target="_top" class="button">Company
+							Information Session</a></li>
+                                <li><a href="mailto:tbp@ucsd.edu?Subject=Initiation%20cycle" target="_top" class="button">About the
+							Initiation Cycle</a></li>
+                            </ul>
+                            <section>
+                                <ul class="contact">
+                                    <li>
+                                        <h3>Social</h3>
+                                        <ul class="icons">
+                                            <li><a href="https://www.facebook.com/tbpucsd/" class="fa-facebook"><span
+                                                class="label">Facebook</span></a></li>
+                                            <li><a href="https://www.linkedin.com/company/the-tau-beta-pi-association-inc./"
+                                                class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </section>
+
+                        </div>
+                    </section>
+
+                </div>
+
+                <footer id="footer" class="wrapper style2">
+                    <div class="inner">
+                        <ul class="menu">
+                            <li>&copy; Tau Beta Pi California Psi. All rights reserved.</li>
+                            <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                            <li>Fajar B. Dirham was here :)</li>
+                        </ul>
+                    </div>
+                </footer>
+            </>
+        )
+    }
+}
+
+export default Home
