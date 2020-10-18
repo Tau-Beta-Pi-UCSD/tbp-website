@@ -23,37 +23,51 @@ const Events = props =>
                     <table>
                         <tbody>
                             <tr>
-                                <td>Tuesday</td>
+                                <td style={ { borderColor: 'white', borderWidth: '2px' } }><b>
+                                    Tuesday
+                                </b></td>
                                 <td>Oct 13, 8pm-9pm</td>
                                 <td>Weekly Board Games</td>
                             </tr>
                             <tr>
-                                <td>Friday</td>
+                                <td style={ { borderColor: 'white', borderWidth: '2px' } }><b>
+                                    Friday
+                                </b></td>
                                 <td>Oct 16, 7pm-8pm</td>
                                 <td>Honor Society Info Session</td>
                             </tr>
                             <tr>
-                                <td>Monday</td>
+                                <td style={ { borderColor: 'white', borderWidth: '2px' } }><b>
+                                    Monday
+                                </b></td>
                                 <td>Oct 19, 5pm-7pm</td>
                                 <td>Northrop Grumman Tech Talk</td>
                             </tr>
                             <tr>
-                                <td>Monday</td>
+                                <td style={ { borderColor: 'white', borderWidth: '2px' } }><b>
+                                    Monday
+                                </b></td>
                                 <td>Oct 19, 7pm-9pm</td>
                                 <td>House Sorting</td>
                             </tr>
                             <tr>
-                                <td>Tuesday</td>
+                                <td style={ { borderColor: 'white', borderWidth: '2px' } }><b>
+                                    Tuesday
+                                </b></td>
                                 <td>Oct 20, 12pm-4pm</td>
                                 <td>Honors Career Fair</td>
                             </tr>
                             <tr>
-                                <td>Tuesday</td>
+                                <td style={ { borderColor: 'white', borderWidth: '2px' } }><b>
+                                    Tuesday
+                                </b></td>
                                 <td>Oct 20, 8pm-9pm</td>
                                 <td>Weekly Board Games</td>
                             </tr>
                             <tr>
-                                <td>Thursday</td>
+                                <td style={ { borderColor: 'white', borderWidth: '2px' } }><b>
+                                    Thursday
+                                </b></td>
                                 <td>Oct 22, 8pm-10pm</td>
                                 <td>Netflix Party Movie Night</td>
                             </tr>

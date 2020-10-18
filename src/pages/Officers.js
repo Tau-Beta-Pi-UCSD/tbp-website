@@ -23,89 +23,89 @@ const Officers = () =>
                                 <div class="row gtr-uniform">
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/caroline s.jpg" alt="" />
 								Caroline Sih <br />
-								President <br />
+                                        <b>President</b> <br />
                                         <a href="mailto:csih@ucsd.edu">csih@ucsd.edu</a>
                                     </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/dawson.jpg" alt="" />
 								Dawson Do <br />
-								VP External Tech <br />
+                                        <b>VP External Tech</b> <br />
                                         <a href="mailto:ddo@ucsd.edu">ddo@ucsd.edu</a>
                                     </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/reed.JPG" alt="" />
 								Reed Rouland <br />
-								VP External Engineering <br />
+                                        <b>VP External Engineering</b> <br />
                                         <a href="mailto:rrouland@ucsd.edu">rrouland@ucsd.edu</a>
                                     </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/aditi.jpg" alt="" />
 								Aditi Anand <br />
-								VP Internal <br />
+                                        <b>VP Internal</b> <br />
                                         <a href="mailto:a2anand@ucsd.edu">a2anand@ucsd.edu</a>
                                     </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/phillip.JPG" alt="" />
 								Phillip Vally <br />
-								VP Finance <br />
+                                        <b>VP Finance</b> <br />
                                         <a href="mailto:pvally@ucsd.edu">pvally@ucsd.edu</a>
                                     </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/radhika.jpg" alt="" />
 								Radhika Munshani <br />
-								VP Service <br />
+                                        <b>VP Service</b> <br />
                                         <a href="mailto:rmunshan@ucsd.edu">rmunshan@ucsd.edu</a>
                                     </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/russell.jpg" alt="" />
 								Russell Ro<br />
-								Secretary <br />
+                                        <b>Secretary</b> <br />
                                         <a href="mailto:rro@ucsd.edu">rro@ucsd.edu</a>
                                     </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/adrian.jpg" alt="" />
 								Adrian Castaneda <br />
-								Social Chair <br />
+                                        <b>Social Chair</b> <br />
                                         <a href="mailto:acastane@ucsd.edu">acastane@ucsd.edu</a>
                                     </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/gokul.jpg" alt="" />
 								Gokul Rasmi <br />
-								Outreach Chair <br />
+                                        <b>Outreach Chair</b> <br />
                                         <a href="mailto:garasmi@ucsd.edu">garasmi@ucsd.edu</a>
                                     </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/fajar.png"
                                         alt="image to add" />
 								Fajar Dirham <br />
-								Co-Tech Chair <br />
+                                        <b>Co-Tech Chair</b> <br />
                                         <a href="mailto:fdirham@ucsd.edu">fdirham@ucsd.edu</a>
                                     </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/aaron.jpg"
                                         alt="image to add" />
 								Aaron Wu <br />
-								Co-Tech Chair <br />
+                                        <b>Co-Tech Chair</b> <br />
                                         <a href="mailto:a2wu@ucsd.edu">a2wu@ucsd.edu</a>
                                     </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/brian.jpg" alt="" />
 								Brian Xi <br />
-								Publicity/Historian <br />
+                                        <b>Publicity/Historian</b> <br />
                                         <a href="mailto:bxi@ucsd.edu">bxi@ucsd.edu</a>
                                     </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/nicholas.jpg" alt="" />
 								Nicholas Alexander Limit <br />
-								CSE Representative <br />
+                                        <b>CSE Representative</b> <br />
                                         <a href="mailto:nlimit@ucsd.edu">nlimit@ucsd.edu</a>
                                     </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/willie.jpg" alt="" />
 								Willie Chow <br />
-								ECE Representative <br />
+                                        <b>ECE Representative</b> <br />
                                         <a href="mailto:w3chow@ucsd.edu">w3chow@ucsd.edu</a>
                                     </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/archana.JPG" alt="" />
 								Archana Penumudi <br />
-								MAE Representative <br />
+                                        <b>MAE Representative</b> <br />
                                         <a href="mailto:arpenumu@ucsd.edu">arpenumu@ucsd.edu</a>
                                     </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/meghan.jpg" alt="" />
 								Meghan Shen <br />
-								Nano Representative <br />
+                                        <b>Nano Representative</b> <br />
                                         <a href="mailto:mshen@ucsd.edu">mshen@ucsd.edu</a>
                                     </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/caroline k.jpg" alt="" />
 								Caroline Kim <br />
-								SE Representative <br />
+                                        <b>SE Representative</b> <br />
                                         <a href="mailto:cbk004@ucsd.edu">cbk004@ucsd.edu</a>
                                     </span></div>
                                 </div>
@@ -128,7 +128,7 @@ const Officers = () =>
 </p>
                                 </div>
                             </div>
-                            <a href="#" class="image"><img src="images/DSC_0608.JPG" alt="" data-position="25% 25%" /></a>
+                            <div href="#" class="image"><img src="images/DSC_0608.JPG" alt="" data-position="25% 25%" /></div>
                         </section>
                     </section>
                 </div>

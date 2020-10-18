@@ -58,6 +58,7 @@ const Membership = () =>
 
                     <section id="requirements" class="wrapper style2 spotlights">
                         <section>
+                            <div href="#" class="image"><img src="images/DSC_0150.JPG" alt="" data-position="top center" /></div>
                             <div class="content">
                                 <div class="inner">
                                     <h2>How to Stay Active?</h2>
@@ -71,13 +72,12 @@ const Membership = () =>
                                     </p>
                                 </div>
                             </div>
-                            <a href="#" class="image"><img src="images/DSC_0150.JPG" alt="" data-position="top center" /></a>
                         </section>
                     </section>
 
                     <section id="leadership" class="wrapper style1 spotlights">
                         <section>
-                            <a href="#" class="image"><img src="images/DSC_1062.JPG" alt="" data-position="25% 25%" /></a>
+                            <div href="#" class="image"><img src="images/DSC_1062.JPG" alt="" data-position="25% 25%" /></div>
                             <div class="content">
                                 <div class="inner">
                                     <h2>Leadership Opportunities</h2>
@@ -93,6 +93,7 @@ const Membership = () =>
 
                     <section id="networking" class="wrapper style2 spotlights">
                         <section>
+                            <div href="#" class="image"><img src="images/DSC_0608.JPG" alt="" data-position="25% 25%" /></div>
                             <div class="content">
                                 <div class="inner">
                                     <h2>Networking Opportunities</h2>
@@ -106,7 +107,6 @@ const Membership = () =>
                                     </ul>
                                 </div>
                             </div>
-                            <a href="#" class="image"><img src="images/DSC_0608.JPG" alt="" data-position="25% 25%" /></a>
                         </section>
                     </section>
 

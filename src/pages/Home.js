@@ -21,9 +21,9 @@ export class Home extends Component
                             public to promote excellence in engineering. Only the top 1/8th of the Junior class and top 1/5th of
 					the Senior class is invited.</p>
                             <ul class="actions">
-                                <li><a href="#join" class="button scrolly">Learn how to join</a></li>
+                                <li><a href="#join" class="button scrolly">Join Us</a></li>
                                 <li><a href="https://tbp.ucsd.edu/points" class="button scrolly">Point Tracking App</a></li>
-                                <li><a href="requirements.html" class="button scrolly"></a></li>
+                                <li><a href="events" class="button scrolly">Our Events</a></li>
                                 <li><a href="#contact" class="button scrolly">Contact Us</a></li>
                             </ul>
                         </div>
@@ -57,7 +57,7 @@ export class Home extends Component
                                 <div class="inner">
                                     <h2>Invitations</h2>
                                     <p>Invitations are sent to students in the <strong>top 1/8th of the Junior class</strong> and
-							<strong>top 1/5th of the Senior class</strong> during the first 2 weeks of Fall and Winter
+							<strong> top 1/5th of the Senior class</strong> during the first 2 weeks of Fall and Winter
 							quarter.
 							After being invited its up to you to initiate.</p>
                                     <ul class="actions">
@@ -94,8 +94,6 @@ export class Home extends Component
 							Company Positions</a></li>
                                 <li><a href="mailto:tbp@ucsd.edu?Subject=Company%20info" target="_top" class="button">Company
 							Information Session</a></li>
-                                <li><a href="mailto:tbp@ucsd.edu?Subject=Initiation%20cycle" target="_top" class="button">About the
-							Initiation Cycle</a></li>
                             </ul>
                             <section>
                                 <ul class="contact">

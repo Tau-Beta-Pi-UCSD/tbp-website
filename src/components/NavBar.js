@@ -1,53 +1,93 @@
 import React, { useEffect, useState } from 'react'
+import { act } from 'react-dom/test-utils'
 import { withRouter } from 'react-router-dom'
+import NavLinks from './NavLinks'
 const NavBar = props =>
 {
-    const [ active, setActive ] = useState( props.location.pathname.substring( 1 ) )
+    const [ mobile, setMobile ] = useState( false )
+    const [ active, setActive ] = useState( false )
 
-    const activeStyle = type =>
+    useEffect( () =>
     {
-        if ( type === active ) return { color: 'white' }
+        window.addEventListener( "resize", resize );
+        resize()
+        return () =>
+        {
+            window.removeEventListener( "resize", resize );
+        }
+    }, [] )
+
+    const resize = () =>
+    {
+        setMobile( ( window.innerWidth <= 736 ) )
     }
+
+    const headerIcon = () =>
+    {
+        if ( active ) return '⌧'
+        return '≡'
+    }
+
+    const activateMenu = () =>
+    {
+        if ( active ) document.body.style.overflow = "visible"
+        else document.body.style.overflow = "hidden"
+
+        setActive( !active )
+    }
+
+    const headerMenu = () =>
+    {
+        if ( active )
+        {
+            return (
+                <section class="" style={ styles.headerMenu }>
+                    <div class="inner">
+                        <NavLinks { ...props } mobile={ true } close={ () => setActive( false ) } />
+                    </div>
+                </section>
+            )
+        }
+    }
+
+    // Mobile header
+    if ( mobile ) return (
+        <>
+            <section id="sidebar" style={ styles.headerContainer }>
+                <div class="inner" onClick={ activateMenu }>
+                    <div style={ styles.hamburger } >
+                        { headerIcon() }
+                    </div>
+                </div>
+            </section>
+            { headerMenu() }
+        </>
+    )
+
+    // Normal header
     return (
         <section id="sidebar">
             <div class="inner">
-                <nav>
-                    <ul>
-                        <li
-                            onClick={ () => { setActive( 'home' ) } }
-                        >
-                            <a href="home" style={ activeStyle( 'home' ) }>Home</a>
-                        </li>
-                        <li
-                            onClick={ () => { setActive( 'initiation' ) } }
-                        >
-                            <a href="initiation" style={ activeStyle( 'initiation' ) }>Initiation</a>
-                        </li>
-                        <li
-                            onClick={ () => { setActive( 'membership' ) } }
-                        >
-                            <a href="membership" style={ activeStyle( 'membership' ) }>Membership</a>
-                        </li>
-                        <li
-                            onClick={ () => { setActive( 'officers' ) } }
-                        >
-                            <a href="officers" style={ activeStyle( 'officers' ) }>Officers</a>
-                        </li>
-                        <li
-                            onClick={ () => { setActive( 'community' ) } }
-                        >
-                            <a href="community" style={ activeStyle( 'community' ) }>TBP Community</a>
-                        </li>
-                        <li
-                            onClick={ () => { setActive( 'events' ) } }
-                        >
-                            <a href="events" style={ activeStyle( 'events' ) }>Events</a>
-                        </li>
-                    </ul>
-                </nav>
+                <NavLinks { ...props } />
             </div>
         </section>
     )
 }
 
+const styles = {
+    headerContainer: {
+    },
+    hamburger: {
+        fontSize: 'xx-large',
+        color: 'white'
+    },
+    headerMenu: {
+        position: 'fixed',
+        zIndex: 1000,
+        width: '100vw',
+        backgroundColor: '#03396c',
+        padding: '3em 0 0 0',
+        height: '100vh'
+    }
+}
 export default withRouter( NavBar )

@@ -34,6 +34,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+	background-repeat: no-repeat;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -1177,8 +1178,12 @@ hr.major {
 	.row>.off-3-small {
 		margin-left: 25%;
 	}
+	.row>.col-4 {
+		width: 50%;
+	}
 	.row>.col-4-small {
 		width: 33.3333333333%;
+		word-wrap: break-word;
 	}
 	.row>.off-4-small {
 		margin-left: 33.3333333333%;
@@ -3003,7 +3008,7 @@ body.is-ie .wrapper.fullscreen {
 
 @media screen and (max-width: 736px) {
 	#sidebar+#wrapper {
-		padding-top: 0;
+		padding-top: 2em;
 	}
 }
 
@@ -3375,9 +3380,9 @@ body.is-preload #sidebar nav ul li {
 }
 
 @media screen and (max-width: 736px) {
-	#sidebar {
-		display: none;
-	}
+	#sidebar nav>ul {}
+	#sidebar>.inner {}
+	#sidebar {}
 }
 
 /* Intro */

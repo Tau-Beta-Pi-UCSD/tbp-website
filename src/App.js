@@ -21,6 +21,7 @@ function App ()
         <Route exact path={ '/officers' } component={ Officers } />
         <Route exact path={ '/community' } component={ Community } />
         <Route exact path={ '/events' } component={ Events } />
+        <Route path={ '/' } component={ () => <Redirect to='home' /> } />
       </Switch>
     </BrowserRouter>
   );
