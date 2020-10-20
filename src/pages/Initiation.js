@@ -82,17 +82,32 @@ const Initiation = () =>
                 </section>
                 <section id="packet" class="wrapper style2">
                     <div class="inner">
-                        <h2>Bent Design Project</h2>
-                        <p>The Bent is the official symbol of Tau Beta Pi. At Coffee with an Officer, each initiate will receive a miniature bronze Bent and will be set with the task of <b>designing and creating an engineering project with the Bent as a centerpiece</b>. This may be as simple as polishing the Bent and setting it in a scene of origami cranes, or welding it to a staff. Initiates will present these projects at the Initiation Ceremony—the initiate who presents the most creative Bent will have their <strong>initiation fee waived</strong> and will be <b>featured on our site!</b>
-                        </p>
+                        <h2>Big / Little Matching</h2>
+                        <p> Tau Beta Pi now officially has a big little system! We encourage newer members / initiates who want to get more immersed in TBP life to sign up to become a little.
+                        Littles are paired with bigs, usually veteran members of TBP who already have jobs and ample experience, based on personality and career factors.
+                        The pair are expected to spend time together in TBP events. This is a perfect opportunity to connect/network with your fellow Tau Bates!</p>
+                        <p>If you are interested, the Big/Little Matching Sheet should be completed via Google Form by <b>November 25, 2020 at 5:00 PM</b>.
+              </p>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdpW8hn1lawjxhR-UxHzYJkV2WSsFjSAOCYkprwRiLyAcKHmQ/viewform" class="button scrolly">CLICK HERE TO SIGN UP</a>
                     </div>
                 </section>
-                <section id="packet" class="wrapper style1">
+                <section id="packet" class="wrapper style1 spotlights">
+                    <section>
+                        <div class="image"><img src="images/russel_bent.png" alt=""
+                            data-position="center center" /></div>
+                        <div class="content">
+                            <div class="inner">
+                                <h2>Bent Design Project</h2>
+                                <p>The Bent is the official symbol of Tau Beta Pi. At Coffee with an Officer, each initiate will receive a miniature bronze Bent and will be set with the task of <b>designing and creating an engineering project with the Bent as a centerpiece</b>. This may be as simple as polishing the Bent and setting it in a scene of origami cranes, or welding it to a staff. Initiates will present these projects at the Initiation Ceremony—the initiate who presents the most creative Bent will have their <strong>initiation fee waived</strong> and will be <b>featured on our site!</b>
+                                </p>
+                            </div>
+                        </div>
+                    </section>
+                </section>
+                <section id="packet" class="wrapper style2">
                     <div class="inner">
                         <h2>Candidate Packages</h2>
                         <p>The following materials should be collected in an email addressed to <a href="mailto:tbp@ucsd.edu?Subject=Tau%20Beta%20Pi%20-%20Your%20Name,%20Major,%20Year" target="_top">tbp@ucsd.edu</a>, with the subject line "Tau Beta Pi - Your Name, Major, Year". The submission deadline for the current Initiation Cycle is <b>November 25, 2020 at 5:00 PM</b>. </p>
-                        <p>The Big/Little Matching Sheet should be completed via Google Form by the same deadline.
-              </p>
                         <div class="table-wrapper">
                             <table>
                                 <tbody>

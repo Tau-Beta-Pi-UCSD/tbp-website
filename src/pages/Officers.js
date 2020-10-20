@@ -61,6 +61,11 @@ const Officers = () =>
                                         <b>Social Chair</b> <br />
                                         <a href="mailto:acastane@ucsd.edu">acastane@ucsd.edu</a>
                                     </span></div>
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/john-paul.jpg" alt="" />
+								John-Paul Pham <br />
+                                        <b>Campus Engagement Chair</b> <br />
+                                        <a href="mailto:japham@ucsd.edu">japham@ucsd.edu</a>
+                                    </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/gokul.jpg" alt="" />
 								Gokul Rasmi <br />
                                         <b>Outreach Chair</b> <br />
