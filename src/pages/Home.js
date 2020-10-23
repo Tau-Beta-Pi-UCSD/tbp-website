@@ -18,8 +18,7 @@ export class Home extends Component
                             <h1>Tau Beta Pi, California Psi</h1>
                             <h3>The Premier Engineering Honor Society at UCSD</h3>
                             <p>Most prominent engineering honor society since 1994. Focusing on serving our members and the
-                            public to promote excellence in engineering. Only the top 1/8th of the Junior class and top 1/5th of
-					the Senior class is invited.</p>
+                            public to promote integrity and excellence in engineering. </p>
                             <ul class="actions">
                                 <li><a href="#join" class="button scrolly">Join Us</a></li>
                                 <li><a href="https://tbp.ucsd.edu/points" class="button scrolly">Point Tracking App</a></li>
@@ -59,7 +58,7 @@ export class Home extends Component
                                     <p>Invitations are sent to students in the <strong>top 1/8th of the Junior class</strong> and
 							<strong> top 1/5th of the Senior class</strong> during the first 2 weeks of Fall and Winter
 							quarter.
-							After being invited its up to you to initiate.</p>
+							After being invited it's up to you to initiate.</p>
                                     <ul class="actions">
                                         <li><a href="initiation" class="button">Explore Initiation</a></li>
                                     </ul>

@@ -98,6 +98,11 @@ const Officers = () =>
                                         <b>ECE Representative</b> <br />
                                         <a href="mailto:w3chow@ucsd.edu">w3chow@ucsd.edu</a>
                                     </span></div>
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/ellie.jpg" alt="" />
+								Ellie Contreras <br />
+                                        <b>BENG Representative</b> <br />
+                                        <a href="mailto:ejcontre@ucsd.edu">ejcontre@ucsd.edu</a>
+                                    </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/archana.JPG" alt="" />
 								Archana Penumudi <br />
                                         <b>MAE Representative</b> <br />
