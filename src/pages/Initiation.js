@@ -122,7 +122,7 @@ const Initiation = () =>
                                     </tr>
                                     <tr>
                                         <td>Two Faculty Ratings</td>
-                                        <td><a href="resources/packet/Faculty_Rating_Form_2019.pdf" class="button scrolly" Download>Download Form</a></td>
+                                        <td><a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSeRRE7LKvMP9MdLjrSMRiGWiEoZ08EGdQND5N0YOh1-HFtuxQ/viewform?usp=sf_link" class="button scrolly">Link</a></td>
                                     </tr>
                                     <tr>
                                         <td>Academic Honesty Statement</td>
@@ -131,10 +131,6 @@ const Initiation = () =>
                                     <tr>
                                         <td>Class Checklist</td>
                                         <td><a href="resources/packet/Class_Checklist_Template.xlsx" class="button scrolly" Download>Download Template</a></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Big/Little Initiate Matching Sheet</td>
-                                        <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfJHcr_3lCnXLZLW56fFKCpefe-qFNy7c6LAGBglRxM82ZL4w/viewform" class="button scrolly">Link Here</a></td>
                                     </tr>
                                 </tbody>
                             </table>
