@@ -42,17 +42,17 @@ const NavLinks = props =>
                 <li
                     style={ mobileStyle() }
                 >
-                    <NavItem to='officers' name='Officers' setActive={ activateLink } active={ active } />
-                </li>
-                <li
-                    style={ mobileStyle() }
-                >
                     <NavItem to='community' name='TBP Community' setActive={ activateLink } active={ active } />
                 </li>
                 <li
                     style={ mobileStyle() }
                 >
                     <NavItem to='events' name='Events' setActive={ activateLink } active={ active } />
+                </li>
+                <li
+                    style={ mobileStyle() }
+                >
+                    <NavItem to='houses' name="Houses & Families" setActive={ activateLink } active={ active } />
                 </li>
             </ul>
         </nav>
