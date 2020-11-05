@@ -152,8 +152,8 @@ const Initiation = () =>
                     <div class="inner">
                         <h2>Initation ceremony</h2>
                         <p>
-                            <b>Initiation is mandatory!</b> any eligible initiate unable to make it to initiation will not be able to initiate this term! a one-time lifetime membership fee of <b>$115</b> (made payable to "ucsd tau beta pi") is due on the night of initiation. payments can be made through venmo or cash/check. this fee covers chapter operating costs, dues to tbp national headquarters, cost of initiation materials, and the initiate banquet. <b> business attire is required. </b> anyone who is not dressed appropriately will not be able to take part in the ceremony.
-								the date of the initiation ceremony for the fall cycle is <b>january 23rd, 2021</b></p>
+                            <b>Initiation is mandatory!</b> Any eligible initiate unable to make it to initiation will not be able to initiate this term! A one-time lifetime membership fee of <b>$115</b> (made payable to "UCSD Tau Beta Pi") is due on the night of initiation. Payments can be made through Venmo or cash/check. This fee covers chapter operating costs, dues to TBP national headquarters, cost of initiation materials, and the initiate banquet. <b> Business attire is required. </b> Anyone who is not dressed appropriately will not be able to take part in the ceremony.
+								The date of the initiation ceremony for the fall cycle is <b>January 23rd, 2021</b></p>
                     </div>
                 </section>
             </div>
