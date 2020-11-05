@@ -5,15 +5,14 @@ import axios from 'axios'
 import { apiUrl } from '../constants/server'
 import HousePoint from '../components/HousePoint';
 
+const houses = [ 'Red', 'Blue', 'Green' ]
 export class Houses extends Component
 {
     constructor ( props )
     {
         super( props );
         this.state = {
-            red_points: -1,
-            blue_points: -1,
-            green_points: -1,
+            points: []
         }
     }
 
@@ -24,44 +23,36 @@ export class Houses extends Component
 
     getPoints = () =>
     {
-        axios.get( apiUrl + 'house/points', { params: { house: 'red' } } )
+        axios.get( apiUrl + 'house/points/total' )
             .then( ( response ) =>
             {
-                this.setState( { red_points: response.data.total_points },
-                    () =>
-                    {
-
-                        axios.get( apiUrl + 'house/points', { params: { house: 'blue' } } )
-                            .then( ( response ) =>
-                            {
-                                this.setState( { blue_points: response.data.total_points },
-                                    () =>
-                                    {
-                                        axios.get( apiUrl + 'house/points', { params: { house: 'green' } } )
-                                            .then( ( response ) =>
-                                            {
-                                                this.setState( { green_points: response.data.total_points },
-                                                    () =>
-                                                    {
-                                                        console.log( this.state )
-                                                    } )
-                                            } )
-                                            .catch( ( error ) =>
-                                            {
-                                                console.log( error, error.response );
-                                            } )
-                                    } )
-                            } )
-                            .catch( ( error ) =>
-                            {
-                                console.log( error, error.response );
-                            } )
-                    } )
+                var points = response.data
+                points = points.sort( ( a, b ) => ( a.total_points < b.total_points ) ? 1 : -1 )
+                this.setState( { points } )
+                console.log( 'hi', points )
             } )
             .catch( ( error ) =>
             {
                 console.log( error, error.response );
             } )
+    }
+
+    renderPoints = () =>
+    {
+
+        if ( this.state.points.length > 0 )
+        {
+            return this.state.points.map( ( e, index ) =>
+            {
+                return <HousePoint
+                    key={ index }
+                    place={ index + 1 }
+                    house={ houses[ e.houseId - 1 ] }
+                    points={ e.total_points }
+                    houseId={ e.houseId }
+                />
+            } )
+        }
     }
 
     render ()
@@ -87,16 +78,7 @@ Each house is composed of 6 families, each containing around <b>5 to 7 initiates
 </p>
                             </div>
                         </section>
-                        <section id="main" class="wrapper style1">
-                            <div class="inner">
-                                <h1>House Points</h1>
-                                <div style={ styles.pointContainer }>
-                                    <HousePoint house='RED' points={ this.state.red_points } />
-                                    <HousePoint house='BLUE' points={ this.state.blue_points } />
-                                    <HousePoint house='GREEN' points={ this.state.green_points } />
-                                </div>
-                            </div>
-                        </section>
+                        { this.renderPoints() }
 
 
                         <footer id="footer" class="wrapper style2">
