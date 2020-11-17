@@ -20,7 +20,7 @@ export class Home extends Component
                             <p>Most prominent engineering honor society since 1994. Focusing on serving our members and the
                             public to promote integrity and excellence in engineering. </p>
                             <ul class="actions">
-                                <li><a href="#join" class="button scrolly">Join Us</a></li>
+                                <li><a href="initiation" class="button scrolly">Join Us</a></li>
                                 <li><a href="https://tbp.ucsd.edu/points" class="button scrolly">Point Tracking App</a></li>
                                 <li><a href="events" class="button scrolly">Our Events</a></li>
                                 <li><a href="#contact" class="button scrolly">Contact Us</a></li>

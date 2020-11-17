@@ -122,7 +122,8 @@ const Initiation = () =>
                                     </tr>
                                     <tr>
                                         <td>Two Faculty Ratings</td>
-                                        <td><a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSeRRE7LKvMP9MdLjrSMRiGWiEoZ08EGdQND5N0YOh1-HFtuxQ/viewform?usp=sf_link" class="button scrolly">Link</a></td>
+                                        <td><a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSeRRE7LKvMP9MdLjrSMRiGWiEoZ08EGdQND5N0YOh1-HFtuxQ/viewform?usp=sf_link" class="button scrolly">Form</a>
+											<a target='_blank' href="https://docs.google.com/spreadsheets/d/16LEC7_dY8rc7S08TT0VMhL0XU6O8tEUIAXNYQ1vypjA/edit?usp=sharing" class="button scrolly">Response List</a></td>
                                     </tr>
                                     <tr>
                                         <td>Academic Honesty Statement</td>
