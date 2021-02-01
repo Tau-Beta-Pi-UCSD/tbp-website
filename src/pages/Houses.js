@@ -23,34 +23,36 @@ export class Houses extends Component
 
     getPoints = () =>
     {
-        axios.get( apiUrl + 'house/points', { params: { house: 'red' } } )
+        axios.get( apiUrl + 'house/points' )
             .then( ( response ) =>
             {
-                const red = { house: 'Red', points: response.data.total_points }
-
-                axios.get( apiUrl + 'house/points', { params: { house: 'blue' } } )
-                    .then( ( response ) =>
+                const pointsArray = response.data
+                var red = {}
+                var blue = {}
+                var green = {}
+                for ( var i = 0; i < pointsArray.length; i++ )
+                {
+                    const points = pointsArray[ i ].total_points
+                    switch ( pointsArray[ i ].houseId )
                     {
-                        const blue = { house: 'Blue', points: response.data.total_points }
-                        axios.get( apiUrl + 'house/points', { params: { house: 'green' } } )
-                            .then( ( response ) =>
-                            {
-                                const green = { house: 'Green', points: response.data.total_points }
-                                this.setState( {
-                                    points: [ red, blue, green ],
-                                    loading: false
-                                } )
-                            } )
-                            .catch( ( error ) =>
-                            {
-                                console.log( error, error.response );
-                            } )
-                    } )
-                    .catch( ( error ) =>
-                    {
-                        console.log( error, error.response );
-                    } )
+                        case 1:
+                            red = { house: 'Red', points }
+                            break
+                        case 2:
+                            blue = { house: 'Blue', points }
+                            break
+                        case 3:
+                            green = { house: 'Green', points }
+                            break
+                        default:
+                            break
+                    }
+                }
 
+                this.setState( {
+                    points: [ red, blue, green ],
+                    loading: false
+                } )
             } )
             .catch( ( error ) =>
             {
