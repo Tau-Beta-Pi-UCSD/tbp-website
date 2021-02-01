@@ -138,7 +138,7 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                         <p> Tau Beta Pi now officially has a big little system! We encourage newer members / initiates who want to get more immersed in TBP life to sign up to become a little.
                         Littles are paired with bigs, usually veteran members of TBP who already have jobs and ample experience, based on personality and career factors.
                         The pair are expected to spend time together in TBP events. This is a perfect opportunity to connect/network with your fellow Tau Bates!</p>
-                        <p>If you are interested, the Big/Little Matching Sheet should be completed via Google Form by <b>November 25, 2020 at 5:00 PM</b>.
+                        <p>If you are interested, the Big/Little Matching Sheet should be completed via Google Form by <b>February 24, 2021 at 5:00 PM</b>.
               </p>
                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSdpW8hn1lawjxhR-UxHzYJkV2WSsFjSAOCYkprwRiLyAcKHmQ/viewform" class="button scrolly">CLICK HERE TO SIGN UP</a>
                     </div>
@@ -158,8 +158,8 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                 </section>
                 <section id="packet" class="wrapper style2">
                     <div class="inner">
-                        <h2>Candidate Packages</h2>
-                        <p>The following materials should be collected in an email addressed to <a href="mailto:tbp@ucsd.edu?Subject=Tau%20Beta%20Pi%20-%20Your%20Name,%20Major,%20Year" target="_top">tbp@ucsd.edu</a>, with the subject line "Tau Beta Pi - Your Name, Major, Year". The submission deadline for the current Initiation Cycle is <b>November 25, 2020 at 5:00 PM</b>. </p>
+                        <h2>Candidate Packets</h2>
+                        <p>The following materials should be collected in an email addressed to <a href="mailto:tbp@ucsd.edu?Subject=Tau%20Beta%20Pi%20-%20Your%20Name,%20Major,%20Year" target="_top">tbp@ucsd.edu</a>, with the subject line "Tau Beta Pi - Your Name, Major, Year". The submission deadline for the current Initiation Cycle is <b>February 24, 2021 at 5:00 PM</b>. </p>
                         <div class="table-wrapper">
                             <table>
                                 <tbody>
@@ -196,7 +196,7 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                         <h2>Interviews</h2>
                         <p>
                             Interviews will be scheduled around
-<b> Week 1 of Winter Quarter (January 4th to January 9th, 2021)</b> and will be hosted virtually over <b>Zoom</b>. These are primarily an opportunity for the Tau Beta Pi members to get to know you, but will also be used to assess your character and what you may bring to the organization. It is important that the information packet be turned in on time so that the members can learn about you before the interview. We will schedule interviews by e-mail during the weeks prior to the interviews. <b> Business attire is required. </b> Anyone who is not dressed properly will be asked to <b>leave and come back on a later date. </b>
+<b> Week 2 of Spring Quarter (April 4th to April 9th, 2021)</b> and will be hosted virtually over <b>Zoom</b>. These are primarily an opportunity for the Tau Beta Pi members to get to know you, but will also be used to assess your character and what you may bring to the organization. It is important that the information packet be turned in on time so that the members can learn about you before the interview. We will schedule interviews by e-mail during the weeks prior to the interviews. <b> Business attire is required. </b> Anyone who is not dressed properly will be asked to <b>leave and come back on a later date. </b>
                         </p>
                     </div>
                 </section>
@@ -206,7 +206,7 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                         <h2>Initation ceremony</h2>
                         <p>
                             <b>Initiation is mandatory!</b> Any eligible initiate unable to make it to initiation will not be able to initiate this term! A one-time lifetime membership fee of <b>$115</b> (made payable to "UCSD Tau Beta Pi") is due on the night of initiation. Payments can be made through Venmo or cash/check. This fee covers chapter operating costs, dues to TBP national headquarters, cost of initiation materials, and the initiate banquet. <b> Business attire is required. </b> Anyone who is not dressed appropriately will not be able to take part in the ceremony.
-								The date of the initiation ceremony for the fall cycle is <b>January 23rd, 2021</b></p>
+								The date of the initiation ceremony for the fall cycle is <b>April 17th, 2021</b></p>
                     </div>
                 </section>
             </div>
