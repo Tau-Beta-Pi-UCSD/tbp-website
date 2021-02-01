@@ -33,51 +33,103 @@ const Initiation = () =>
                     <div class="inner">
                         <h2>Points Requirement</h2>
                         <p>We require eligible initiates to either use our <a href="/points">point tracking app</a> or <a href="resources/Initiate_Points.pdf">a point verification form</a> over the course of their Initiation Cycle.
-								<div class="table-wrapper">
-                                <table>
-                                    <thead>
-                                        <tr><b>15 Points Total</b></tr>
-                                        <tr>
-                                            <th>Count</th>
-                                            <th>Category</th>
-                                            <th>Special Requirement</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>3</td>
-                                            <td>Social/House Events</td>
-                                            <td>at least one individual house and one all-house competition</td>
-                                        </tr>
-                                        <tr>
-                                            <td>3</td>
-                                            <td>Academic/Professional Events</td>
-                                            <td>including a <b>mandatory resumé critique</b></td>
-                                        </tr>
-                                        <tr>
-                                            <td>3</td>
-                                            <td>Outreach/Community Service Events</td>
-                                            <td>-</td>
-                                        </tr>
-                                        <tr>
-                                            <td>1</td>
-                                            <td>Coffee with an Officer</td>
-                                            <td>-</td>
-                                        </tr>
-                                        <tr>
-                                            <td>5</td>
-                                            <td>Any Events/Flex Points</td>
-                                            <td>including <b>family</b> events</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-								Points are usually given at a rate of 1 point per hour at each event, and require a sign off from a TBP officer as witness of your attendance. Your points list must have sign offs from at least five different officers to be considered complete. <b>If you do not use the app, the point verification form must be turned in on the day of Initiation. </b> </p>
-                        <p>If you do not use the app, the point verification form must be turned in on the day of Initiation. While 15 points might seem like a lot, last cycle initiate Nicholas Limit obtained <b>over 50 points!</b></p>
+A complete list of point requirements for <a href='#g-points'>graduate</a> and <a href='#u-points'>undergraduate</a> students can be found in the section after this one.
+</p>
+
+                        <p>Points are usually given at a rate of 1 point per hour at each event, and require a sign off from a TBP officer as witness of your attendance. Your points list must have sign offs from at least five different officers to be considered complete. <b>If you do not use the app, the point verification form must be turned in on the day of Initiation. </b> </p>
+                        <p>If you do not use the app, the point verification form must be turned in on the day of Initiation. While 10 - 15 points might seem like a lot, last cycle initiate Nicholas Limit obtained <b>over 50 points!</b></p>
                         <p><b>Due to the current global climate</b>, we understand that candidates may be undergoing extenuating circumstances such as large time zone differences that complicate the initiation process. If you will be affected by circumstances like these, we ask that you contact	<a href="mailto:tbp@ucsd.edu?Subject=Initiation%20cycle" target="_top">tbp@ucsd.edu</a> to notify our officers as early as possible. Regardless of circumstance, our officers will work towards ensuring that every candidate has a fair and enjoyable initiation cycle.
 							</p>
                         <a href="/points" class="button scrolly" >Points App</a>
                         <a href="resources/Initiate_Points.pdf" class="button scrolly" Download>Download Points Form</a>
+                    </div>
+                </section>
+
+                <section id="u-points" class="wrapper style2">
+                    <div class="inner">
+                        <h2>Undergraduate Student Points Requirement</h2>
+                        <div class="table-wrapper" style={ { margin: '20px 0' } }>
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>Count</th>
+                                        <th>Category</th>
+                                        <th>Special Requirement</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>3</td>
+                                        <td>Social/House Events</td>
+                                        <td>at least one individual house and one all-house competition</td>
+                                    </tr>
+                                    <tr>
+                                        <td>3</td>
+                                        <td>Academic/Professional Events</td>
+                                        <td>including a <b>mandatory resumé critique</b></td>
+                                    </tr>
+                                    <tr>
+                                        <td>2</td>
+                                        <td>Outreach/Community Service Events</td>
+                                        <td>-</td>
+                                    </tr>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>Coffee with an Officer</td>
+                                        <td>-</td>
+                                    </tr>
+                                    <tr>
+                                        <td>6</td>
+                                        <td>Any Events/Flex Points</td>
+                                        <td>including <b>family</b> events</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="g-points" class="wrapper style1">
+                    <div class="inner">
+                        <h2>Graduate Student Points Requirement</h2>
+                        <div class="table-wrapper" style={ { margin: '20px 0' } }>
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>Count</th>
+                                        <th>Category</th>
+                                        <th>Special Requirement</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>2</td>
+                                        <td>Social/House Events</td>
+                                        <td>at least one individual house and one all-house competition</td>
+                                    </tr>
+                                    <tr>
+                                        <td>2</td>
+                                        <td>Academic/Professional Events</td>
+                                        <td>including a <b>mandatory resumé critique</b></td>
+                                    </tr>
+                                    <tr>
+                                        <td>2</td>
+                                        <td>Outreach/Community Service Events</td>
+                                        <td>-</td>
+                                    </tr>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>Coffee with an Officer</td>
+                                        <td>-</td>
+                                    </tr>
+                                    <tr>
+                                        <td>3</td>
+                                        <td>Any Events/Flex Points</td>
+                                        <td>including <b>family</b> events</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
                     </div>
                 </section>
                 <section id="packet" class="wrapper style2">
@@ -86,7 +138,7 @@ const Initiation = () =>
                         <p> Tau Beta Pi now officially has a big little system! We encourage newer members / initiates who want to get more immersed in TBP life to sign up to become a little.
                         Littles are paired with bigs, usually veteran members of TBP who already have jobs and ample experience, based on personality and career factors.
                         The pair are expected to spend time together in TBP events. This is a perfect opportunity to connect/network with your fellow Tau Bates!</p>
-                        <p>If you are interested, the Big/Little Matching Sheet should be completed via Google Form by <b>November 25, 2020 at 5:00 PM</b>.
+                        <p>If you are interested, the Big/Little Matching Sheet should be completed via Google Form by <b>February 24, 2021 at 5:00 PM</b>.
               </p>
                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSdpW8hn1lawjxhR-UxHzYJkV2WSsFjSAOCYkprwRiLyAcKHmQ/viewform" class="button scrolly">CLICK HERE TO SIGN UP</a>
                     </div>
@@ -106,8 +158,8 @@ const Initiation = () =>
                 </section>
                 <section id="packet" class="wrapper style2">
                     <div class="inner">
-                        <h2>Candidate Packages</h2>
-                        <p>The following materials should be collected in an email addressed to <a href="mailto:tbp@ucsd.edu?Subject=Tau%20Beta%20Pi%20-%20Your%20Name,%20Major,%20Year" target="_top">tbp@ucsd.edu</a>, with the subject line "Tau Beta Pi - Your Name, Major, Year". The submission deadline for the current Initiation Cycle is <b>November 25, 2020 at 5:00 PM</b>. </p>
+                        <h2>Candidate Packets</h2>
+                        <p>The following materials should be collected in an email addressed to <a href="mailto:tbp@ucsd.edu?Subject=Tau%20Beta%20Pi%20-%20Your%20Name,%20Major,%20Year" target="_top">tbp@ucsd.edu</a>, with the subject line "Tau Beta Pi - Your Name, Major, Year". The submission deadline for the current Initiation Cycle is <b>February 24, 2021 at 5:00 PM</b>. </p>
                         <div class="table-wrapper">
                             <table>
                                 <tbody>
@@ -122,7 +174,8 @@ const Initiation = () =>
                                     </tr>
                                     <tr>
                                         <td>Two Faculty Ratings</td>
-                                        <td><a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSeRRE7LKvMP9MdLjrSMRiGWiEoZ08EGdQND5N0YOh1-HFtuxQ/viewform?usp=sf_link" class="button scrolly">Link</a></td>
+                                        <td><a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSeRRE7LKvMP9MdLjrSMRiGWiEoZ08EGdQND5N0YOh1-HFtuxQ/viewform?usp=sf_link" class="button scrolly">Form</a>
+                                            <a target='_blank' href="https://docs.google.com/spreadsheets/d/16LEC7_dY8rc7S08TT0VMhL0XU6O8tEUIAXNYQ1vypjA/edit?usp=sharing" class="button scrolly">Response List</a></td>
                                     </tr>
                                     <tr>
                                         <td>Academic Honesty Statement</td>
@@ -138,22 +191,22 @@ const Initiation = () =>
                     </div>
                 </section>
 
-                <section id="interview" class="wrapper style2">
+                <section id="interview" class="wrapper style1">
                     <div class="inner">
                         <h2>Interviews</h2>
                         <p>
                             Interviews will be scheduled around
-<b> Week 1 of Winter Quarter (January 4th to January 9th, 2021)</b> and will be hosted virtually over <b>Zoom</b>. These are primarily an opportunity for the Tau Beta Pi members to get to know you, but will also be used to assess your character and what you may bring to the organization. It is important that the information packet be turned in on time so that the members can learn about you before the interview. We will schedule interviews by e-mail during the weeks prior to the interviews. <b> Business attire is required. </b> Anyone who is not dressed properly will be asked to <b>leave and come back on a later date. </b>
+<b> Week 2 of Spring Quarter (April 4th to April 9th, 2021)</b> and will be hosted virtually over <b>Zoom</b>. These are primarily an opportunity for the Tau Beta Pi members to get to know you, but will also be used to assess your character and what you may bring to the organization. It is important that the information packet be turned in on time so that the members can learn about you before the interview. We will schedule interviews by e-mail during the weeks prior to the interviews. <b> Business attire is required. </b> Anyone who is not dressed properly will be asked to <b>leave and come back on a later date. </b>
                         </p>
                     </div>
                 </section>
-                <section id="ceremony" class="wrapper style1">
+                <section id="ceremony" class="wrapper style2">
 
                     <div class="inner">
                         <h2>Initation ceremony</h2>
                         <p>
-                            <b>Initiation is mandatory!</b> any eligible initiate unable to make it to initiation will not be able to initiate this term! a one-time lifetime membership fee of <b>$115</b> (made payable to "ucsd tau beta pi") is due on the night of initiation. payments can be made through venmo or cash/check. this fee covers chapter operating costs, dues to tbp national headquarters, cost of initiation materials, and the initiate banquet. <b> business attire is required. </b> anyone who is not dressed appropriately will not be able to take part in the ceremony.
-								the date of the initiation ceremony for the fall cycle is <b>january 23rd, 2021</b></p>
+                            <b>Initiation is mandatory!</b> Any eligible initiate unable to make it to initiation will not be able to initiate this term! A one-time lifetime membership fee of <b>$115</b> (made payable to "UCSD Tau Beta Pi") is due on the night of initiation. Payments can be made through Venmo or cash/check. This fee covers chapter operating costs, dues to TBP national headquarters, cost of initiation materials, and the initiate banquet. <b> Business attire is required. </b> Anyone who is not dressed appropriately will not be able to take part in the ceremony.
+								The date of the initiation ceremony for the fall cycle is <b>April 17th, 2021</b></p>
                     </div>
                 </section>
             </div>

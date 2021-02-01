@@ -44,7 +44,6 @@ export class Events extends Component
                                 <ul class="menu">
                                     <li>&copy; Tau Beta Pi California Psi. All rights reserved.</li>
                                     <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-                                    <li>Fajar B. Dirham was here :)</li>
                                 </ul>
                             </div>
                         </footer>
