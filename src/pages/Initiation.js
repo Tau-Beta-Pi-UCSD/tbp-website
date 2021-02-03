@@ -159,7 +159,7 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                 <section id="packet" class="wrapper style2">
                     <div class="inner">
                         <h2>Candidate Packets</h2>
-                        <p>The following materials should be collected in an email addressed to <a href="mailto:tbp@ucsd.edu?Subject=Tau%20Beta%20Pi%20-%20Your%20Name,%20Major,%20Year" target="_top">tbp@ucsd.edu</a>, with the subject line "Tau Beta Pi - Your Name, Major, Year". The submission deadline for the current Initiation Cycle is <b>February 24, 2021 at 5:00 PM</b>. </p>
+                        <p>The following materials should be submitted to the "Candidate Packet Submission" google form at the bottom of the list. The submission deadline for the current Initiation Cycle is <b>February 24, 2021 at 5:00 PM.</b></p>
                         <div class="table-wrapper">
                             <table>
                                 <tbody>
@@ -185,6 +185,12 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                                         <td>Class Checklist</td>
                                         <td><a href="resources/packet/Class_Checklist_Template.xlsx" class="button scrolly" Download>Download Template</a></td>
                                     </tr>
+                                    <tr>
+                                    </tr>
+                                    <tr>
+                                        <td>Candidate Packet Submission</td>
+                                        <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSf9N2frXhkon2xItOPJXU8rNf7mgmrFrI2_7pDQkCPoWsNOrw/viewform?usp=sf_linkf" class="button scrolly" Download>Google Form</a></td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </div>
@@ -205,7 +211,7 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                     <div class="inner">
                         <h2>Initation ceremony</h2>
                         <p>
-                            <b>Initiation is mandatory!</b> Any eligible initiate unable to make it to initiation will not be able to initiate this term! A one-time lifetime membership fee of <b>$115</b> (made payable to "UCSD Tau Beta Pi") is due on the night of initiation. Payments can be made through Venmo or cash/check. This fee covers chapter operating costs, dues to TBP national headquarters, cost of initiation materials, and the initiate banquet. <b> Business attire is required. </b> Anyone who is not dressed appropriately will not be able to take part in the ceremony.
+                            <b>Initiation is mandatory!</b> Any eligible initiate unable to make it to initiation will not be able to initiate this term! A one-time lifetime membership fee of <b>$110</b> (made payable to "UCSD Tau Beta Pi") is due on the night of initiation. Payments can be made through Venmo or cash/check. This fee covers chapter operating costs, dues to TBP national headquarters, cost of initiation materials, and the initiate banquet. <b> Business attire is required. </b> Anyone who is not dressed appropriately will not be able to take part in the ceremony.
 								The date of the initiation ceremony for the fall cycle is <b>April 17th, 2021</b></p>
                     </div>
                 </section>
