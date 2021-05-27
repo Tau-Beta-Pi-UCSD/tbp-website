@@ -110,7 +110,7 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                                     <tr>
                                         <td>2</td>
                                         <td>Academic/Professional Events</td>
-                                        <td>including a <b>mandatory resumé critique</b></td>
+                                        <td>-</td>
                                     </tr>
                                     <tr>
                                         <td>2</td>
@@ -140,7 +140,7 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                         The pair are expected to spend time together in TBP events. This is a perfect opportunity to connect/network with your fellow Tau Bates!</p>
                         <p>If you are interested, the Big/Little Matching Sheet should be completed via Google Form by <b>February 24, 2021 at 5:00 PM</b>.
               </p>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdpW8hn1lawjxhR-UxHzYJkV2WSsFjSAOCYkprwRiLyAcKHmQ/viewform" class="button scrolly">CLICK HERE TO SIGN UP</a>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJaJysczS5fl87qefOkl9IsXi97g1WK7klkFWuIAWK20h7kw/viewform" class="button scrolly">CLICK HERE TO SIGN UP</a>
                     </div>
                 </section>
                 <section id="packet" class="wrapper style1 spotlights">
