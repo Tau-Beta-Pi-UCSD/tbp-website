@@ -159,7 +159,7 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                 <section id="packet" class="wrapper style2">
                     <div class="inner">
                         <h2>Candidate Packets</h2>
-                        <p>The following materials should be submitted to the "Candidate Packet Submission" google form at the bottom of the list. The submission deadline for the current Initiation Cycle is <b>February 24, 2021 at 5:00 PM.</b></p>
+                        <p>The following materials should be submitted to the "Candidate Packet Submission" google form at the bottom of the list. The submission deadline for the current Initiation Cycle is <b>November 24, 2021 at 5:00 PM.</b></p>
                         <div class="table-wrapper">
                             <table>
                                 <tbody>
@@ -202,7 +202,7 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                         <h2>Interviews</h2>
                         <p>
                             Interviews will be scheduled around
-<b> Week 2 of Spring Quarter (April 4th to April 9th, 2021)</b> and will be hosted virtually over <b>Zoom</b>. These are primarily an opportunity for the Tau Beta Pi members to get to know you, but will also be used to assess your character and what you may bring to the organization. It is important that the information packet be turned in on time so that the members can learn about you before the interview. We will schedule interviews by e-mail during the weeks prior to the interviews. <b> Business attire is required. </b> Anyone who is not dressed properly will be asked to <b>leave and come back on a later date. </b>
+<b> Week 1 or Week 2 of Winter Quarter </b> and will be hosted virtually over <b>Zoom</b>. These are primarily an opportunity for the Tau Beta Pi members to get to know you, but will also be used to assess your character and what you may bring to the organization. It is important that the information packet be turned in on time so that the members can learn about you before the interview. We will schedule interviews by e-mail during the weeks prior to the interviews. <b> Business attire is required. </b> Anyone who is not dressed properly will be asked to <b>leave and come back on a later date. </b>
                         </p>
                     </div>
                 </section>
@@ -212,7 +212,7 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                         <h2>Initation ceremony</h2>
                         <p>
                             <b>Initiation is mandatory!</b> Any eligible initiate unable to make it to initiation will not be able to initiate this term! A one-time lifetime membership fee of <b>$110</b> (made payable to "UCSD Tau Beta Pi") is due on the night of initiation. Payments can be made through Venmo or cash/check. This fee covers chapter operating costs, dues to TBP national headquarters, cost of initiation materials, and the initiate banquet. <b> Business attire is required. </b> Anyone who is not dressed appropriately will not be able to take part in the ceremony.
-								The date of the initiation ceremony for the fall cycle is <b>April 17th, 2021</b></p>
+								The date of the initiation ceremony for the fall cycle is <b>January 22, 2021</b></p>
                     </div>
                 </section>
             </div>
