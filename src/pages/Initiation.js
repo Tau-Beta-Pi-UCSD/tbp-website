@@ -159,7 +159,7 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                 <section id="packet" class="wrapper style2">
                     <div class="inner">
                         <h2>Candidate Packets</h2>
-                        <p>The following materials should be submitted to the "Candidate Packet Submission" google form at the bottom of the list. The submission deadline for the current Initiation Cycle is <b>November 24, 2021 at 5:00 PM.</b></p>
+                        <p>The following materials should be submitted to the "Candidate Packet Submission" google form at the bottom of the list. The submission deadline for the current Initiation Cycle is <b>February 23, 2022 at 5:00 PM.</b></p>
                         <div class="table-wrapper">
                             <table>
                                 <tbody>
@@ -174,7 +174,7 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                                     </tr>
                                     <tr>
                                         <td>Two Faculty Ratings</td>
-                                        <td><a target='_blank' href="https://forms.gle/MD9NyXg3bFwJhCwR6" class="button scrolly">Form</a>
+                                        <td><a target='_blank' href="https://forms.gle/g77SZA1on8LUuJAN6" class="button scrolly">Form</a>
                                             </td>
                                     </tr>
                                     <tr>
@@ -189,7 +189,7 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                                     </tr>
                                     <tr>
                                         <td>Candidate Packet Submission</td>
-                                        <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSf9N2frXhkon2xItOPJXU8rNf7mgmrFrI2_7pDQkCPoWsNOrw/viewform?usp=sf_linkf" class="button scrolly" Download>Google Form</a></td>
+                                        <td><a href="https://forms.gle/rgGyhGGLt9B7FxMk7" class="button scrolly" Download>Google Form</a></td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -212,7 +212,7 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                         <h2>Initation ceremony</h2>
                         <p>
                             <b>Initiation is mandatory!</b> Any eligible initiate unable to make it to initiation will not be able to initiate this term! A one-time lifetime membership fee of <b>$110</b> (made payable to "UCSD Tau Beta Pi") is due on the night of initiation. Payments can be made through Venmo or cash/check. This fee covers chapter operating costs, dues to TBP national headquarters, cost of initiation materials, and the initiate banquet. <b> Business attire is required. </b> Anyone who is not dressed appropriately will not be able to take part in the ceremony.
-								The date of the initiation ceremony for the fall cycle is <b>January 22, 2021</b></p>
+								The date of the initiation ceremony for the fall cycle is <b>April 16, 2022.</b></p>
                     </div>
                 </section>
             </div>

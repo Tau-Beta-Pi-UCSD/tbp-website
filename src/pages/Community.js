@@ -55,102 +55,109 @@ const Community = () =>
                             <h1>Meet the Team</h1>
                             <div class="box alt">
                                 <div class="row gtr-uniform">
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/caroline s.jpg" alt="" />
-								Caroline Sih <br />
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/aditi.jpg" alt="" />
+								Aditi Anand<br />
                                         <b>President</b> <br />
-                                        <a href="mailto:csih@ucsd.edu">csih@ucsd.edu</a>
+                                        <a href="mailto:a2anand@ucsd.edu">a2anand@ucsd.edu</a>
                                     </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/dawson.jpg" alt="" />
 								Dawson Do <br />
-                                        <b>VP External Tech</b> <br />
+                                        <b>President</b> <br />
                                         <a href="mailto:ddo@ucsd.edu">ddo@ucsd.edu</a>
                                     </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/reed.JPG" alt="" />
-								Reed Rouland <br />
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/wesam.jpg" alt="" />
+								Wesam Kanim<br />
                                         <b>VP External Engineering</b> <br />
-                                        <a href="mailto:rrouland@ucsd.edu">rrouland@ucsd.edu</a>
+                                        <a href="mailto:wkanim@ucsd.edu">wkanim@ucsd.edu</a>
                                     </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/aditi.jpg" alt="" />
-								Aditi Anand <br />
-                                        <b>VP Internal</b> <br />
-                                        <a href="mailto:a2anand@ucsd.edu">a2anand@ucsd.edu</a>
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/empty.png" alt="" />
+								Ye Jin<br />
+                                        <b>VP External Engineering</b> <br />
+                                        <a href="mailto:y8jin@ucsd.edu">y8jin@ucsd.edu</a>
                                     </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/phillip.JPG" alt="" />
-								Phillip Vally <br />
-                                        <b>VP Finance</b> <br />
-                                        <a href="mailto:pvally@ucsd.edu">pvally@ucsd.edu</a>
-                                    </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/radhika.jpg" alt="" />
-								Radhika Munshani <br />
-                                        <b>VP Service</b> <br />
-                                        <a href="mailto:rmunshan@ucsd.edu">rmunshan@ucsd.edu</a>
-                                    </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/russell.jpg" alt="" />
-								Russell Ro<br />
-                                        <b>Secretary</b> <br />
-                                        <a href="mailto:rro@ucsd.edu">rro@ucsd.edu</a>
-                                    </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/adrian.jpg" alt="" />
-								Adrian Castaneda <br />
-                                        <b>Social Chair</b> <br />
-                                        <a href="mailto:acastane@ucsd.edu">acastane@ucsd.edu</a>
-                                    </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/john-paul.jpg" alt="" />
-								John-Paul Pham <br />
-                                        <b>Campus Engagement Chair</b> <br />
-                                        <a href="mailto:japham@ucsd.edu">japham@ucsd.edu</a>
-                                    </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/gokul.jpg" alt="" />
-								Gokul Rasmi <br />
-                                        <b>Outreach Chair</b> <br />
-                                        <a href="mailto:garasmi@ucsd.edu">garasmi@ucsd.edu</a>
-                                    </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/fajar.png"
-                                        alt="image to add" />
-								Fajar Dirham <br />
-                                        <b>Co-Tech Chair</b> <br />
-                                        <a href="mailto:fdirham@ucsd.edu">fdirham@ucsd.edu</a>
-                                    </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/aaron.jpg"
-                                        alt="image to add" />
-								Aaron Wu <br />
-                                        <b>Co-Tech Chair</b> <br />
-                                        <a href="mailto:a2wu@ucsd.edu">a2wu@ucsd.edu</a>
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/empty.png" alt="" />
+								Ellie Huo<br />
+                                        <b>VP External Tech</b> <br />
+                                        <a href="mailto:elhuo@ucsd.edu">elhuo@ucsd.edu</a>
                                     </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/brian.jpg" alt="" />
-								Brian Xi <br />
-                                        <b>Publicity/Historian</b> <br />
+								Brian Xi<br />
+                                        <b>VP Internal</b> <br />
                                         <a href="mailto:bxi@ucsd.edu">bxi@ucsd.edu</a>
                                     </span></div>
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/jackson.JPG" alt="" />
+								Jackson Conte<br />
+                                        <b>VP Internal</b> <br />
+                                        <a href="mailto:jjconte@ucsd.edu">jjconte@ucsd.edu</a>
+                                    </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/nicholas.jpg" alt="" />
-								Nicholas Alexander Limit <br />
-                                        <b>CSE Representative</b> <br />
+								Nicholas Alexander Limit<br />
+                                        <b>VP Finance</b> <br />
                                         <a href="mailto:nlimit@ucsd.edu">nlimit@ucsd.edu</a>
                                     </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/willie.jpg" alt="" />
-								Willie Chow <br />
-                                        <b>ECE Representative</b> <br />
-                                        <a href="mailto:w3chow@ucsd.edu">w3chow@ucsd.edu</a>
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/lorenzo.jpg" alt="" />
+								Lorenzo Mendes<br />
+                                        <b>VP Finance</b> <br />
+                                        <a href="mailto:lmended@ucsd.edu">lmendes@ucsd.edu</a>
                                     </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/ellie.jpg" alt="" />
-								Ellie Contreras <br />
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/empty.png" alt="" />
+								Michael Khanzadeh<br />
+                                        <b>VP Service</b> <br />
+                                        <a href="mailto:mmkhanza@ucsd.edu">mmkhanza@ucsd.edu</a>
+                                    </span></div>
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/trevor.jpg" alt="" />
+								Trevor Tsai <br />
+                                        <b>Secretary</b> <br />
+                                        <a href="mailto:t2tsai@ucsd.edu">t2tsai@ucsd.edu</a>
+                                    </span></div>
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/julie.jpg" alt="" />
+								Julie Ngan<br />
+                                        <b>Co-Social Chair</b> <br />
+                                        <a href="mailto:jngan@ucsd.edu">jngan@ucsd.edu</a>
+                                    </span></div>
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/asher.jpg" alt="" />
+								Asher Av<br />
+                                        <b>Co-Social Chair</b> <br />
+                                        <a href="mailto:bav@ucsd.edu">bav@ucsd.edu</a>
+                                    </span></div>
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/samay.jpg" alt=""/>
+								Samay Gandhi<br />
+                                        <b>House Chair</b> <br />
+                                        <a href="mailto:sagandhi@ucsd.edu">sagandhi@ucsd.edu</a>
+                                    </span></div>
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/satyam.jpg" alt="" />
+								Satyam Gupta<br />
+                                        <b>Tech Chair</b> <br />
+                                        <a href="mailto:sagupta@ucsd.edu">sagupta@ucsd.edu</a>
+                                    </span></div>
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/meghan.jpg" alt="" />
+								Meghan Shen<br />
+                                        <b>Historian</b> <br />
+                                        <a href="mailto:mshen@ucsd.edu">mshen@ucsd.edu</a>
+                                    </span></div>    <div class="col-4"><span class="image fit"><img src="images/headshots/ellie_c.jpg" alt="" />
+								Elizabeth (Ellie) Conteras <br />
                                         <b>BENG Representative</b> <br />
                                         <a href="mailto:ejcontre@ucsd.edu">ejcontre@ucsd.edu</a>
                                     </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/archana.JPG" alt="" />
-								Archana Penumudi <br />
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/jeromy.jpg" alt="" />
+								Jeromey Klein<br />
+                                        <b>CSE Representative</b> <br />
+                                        <a href="mailto:jiklein@ucsd.edu">jiklein@ucsd.edu</a>
+                                    </span></div>
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/empty.png" alt="" />
+								Chia-Tung (Mark) Ho<br />
+                                        <b>ECE Representative</b> <br />
+                                        <a href="mailto:c2ho@eng.ucsd.edu">c2ho@eng.ucsd.edu</a>
+                                    </span></div>
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/taylor.JPG" alt="" />
+								Taylor Stiffler <br />
                                         <b>MAE Representative</b> <br />
-                                        <a href="mailto:arpenumu@ucsd.edu">arpenumu@ucsd.edu</a>
+                                        <a href="mailto:tstiffle@ucsd.edu">tstiffle@ucsd.edu</a>
                                     </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/meghan.jpg" alt="" />
-								Meghan Shen <br />
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/rebecca.jpg" alt="" />
+								Rebecca Wheeler<br />
                                         <b>Nano Representative</b> <br />
-                                        <a href="mailto:mshen@ucsd.edu">mshen@ucsd.edu</a>
-                                    </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/caroline k.jpg" alt="" />
-								Caroline Kim <br />
-                                        <b>SE Representative</b> <br />
-                                        <a href="mailto:cbk004@ucsd.edu">cbk004@ucsd.edu</a>
+                                        <a href="mailto:rwheeler@ucsd.edu">rwheeler@ucsd.edu</a>
                                     </span></div>
                                 </div>
                             </div>
