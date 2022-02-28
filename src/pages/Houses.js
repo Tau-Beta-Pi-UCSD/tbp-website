@@ -3,7 +3,6 @@ import React, { Component } from 'react'
 import NavBar from '../components/NavBar'
 import axios from 'axios'
 import { apiUrl } from '../constants/server'
-import HousePoint from '../components/HousePoint';
 
 export class Houses extends Component
 {
@@ -162,12 +161,12 @@ Each house is composed of 6 families, each containing around <b>5 to 7 initiates
     }
 }
 
-const styles = {
-    pointContainer: {
-        display: 'flex',
-        flexDirection: 'row',
-        width: '100%',
-        justifyContent: 'space-between'
-    },
-}
+// const styles = {
+//     pointContainer: {
+//         display: 'flex',
+//         flexDirection: 'row',
+//         width: '100%',
+//         justifyContent: 'space-between'
+//     },
+// }
 export default Houses

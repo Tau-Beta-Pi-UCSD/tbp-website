@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react'
-import { act } from 'react-dom/test-utils'
 import { withRouter } from 'react-router-dom'
 import NavLinks from './NavLinks'
 const NavBar = props =>

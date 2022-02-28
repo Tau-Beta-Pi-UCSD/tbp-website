@@ -67,12 +67,10 @@ const styles = {
         borderColor: 'rgba(255,255,255,0.5)',
         borderWidth: '0 0 1px 0',
         textTransform: 'uppercase',
-        fontSize: '0.8em',
         fontWeight: 'bold',
         letterSpacing: '0.25em',
         lineHeight: '0.75',
         outline: 0,
-        padding: '2em',
         width: '100%'
     },
 }

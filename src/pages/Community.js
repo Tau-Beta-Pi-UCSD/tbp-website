@@ -65,17 +65,17 @@ const Community = () =>
                                         <b>President</b> <br />
                                         <a href="mailto:ddo@ucsd.edu">ddo@ucsd.edu</a>
                                     </span></div>
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/ye.jpg" alt="" />
+								Ye Jin<br />
+                                        <b>VP External Engineering</b> <br />
+                                        <a href="mailto:y8jin@ucsd.edu">y8jin@ucsd.edu</a>
+                                    </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/wesam.jpg" alt="" />
 								Wesam Kanim<br />
                                         <b>VP External Engineering</b> <br />
                                         <a href="mailto:wkanim@ucsd.edu">wkanim@ucsd.edu</a>
                                     </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/empty.png" alt="" />
-								Ye Jin<br />
-                                        <b>VP External Engineering</b> <br />
-                                        <a href="mailto:y8jin@ucsd.edu">y8jin@ucsd.edu</a>
-                                    </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/empty.png" alt="" />
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/ellie_h.jpg" alt="" />
 								Ellie Huo<br />
                                         <b>VP External Tech</b> <br />
                                         <a href="mailto:elhuo@ucsd.edu">elhuo@ucsd.edu</a>
@@ -85,7 +85,7 @@ const Community = () =>
                                         <b>VP Internal</b> <br />
                                         <a href="mailto:bxi@ucsd.edu">bxi@ucsd.edu</a>
                                     </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/jackson.JPG" alt="" />
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/jackson.jpg" alt="" />
 								Jackson Conte<br />
                                         <b>VP Internal</b> <br />
                                         <a href="mailto:jjconte@ucsd.edu">jjconte@ucsd.edu</a>
@@ -100,7 +100,7 @@ const Community = () =>
                                         <b>VP Finance</b> <br />
                                         <a href="mailto:lmended@ucsd.edu">lmendes@ucsd.edu</a>
                                     </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/empty.png" alt="" />
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/michael.jpg" alt="" />
 								Michael Khanzadeh<br />
                                         <b>VP Service</b> <br />
                                         <a href="mailto:mmkhanza@ucsd.edu">mmkhanza@ucsd.edu</a>
@@ -125,6 +125,11 @@ const Community = () =>
                                         <b>House Chair</b> <br />
                                         <a href="mailto:sagandhi@ucsd.edu">sagandhi@ucsd.edu</a>
                                     </span></div>
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/john-paul.jpg" alt="" />
+								John-Paul Pham<br />
+                                        <b>Tech Chair</b> <br />
+                                        <a href="mailto:sagupta@ucsd.edu">japham@ucsd.edu</a>
+                                    </span></div>
                                     <div class="col-4"><span class="image fit"><img src="images/headshots/satyam.jpg" alt="" />
 								Satyam Gupta<br />
                                         <b>Tech Chair</b> <br />
@@ -144,12 +149,12 @@ const Community = () =>
                                         <b>CSE Representative</b> <br />
                                         <a href="mailto:jiklein@ucsd.edu">jiklein@ucsd.edu</a>
                                     </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/empty.png" alt="" />
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/mark.jpg" alt="" />
 								Chia-Tung (Mark) Ho<br />
                                         <b>ECE Representative</b> <br />
                                         <a href="mailto:c2ho@eng.ucsd.edu">c2ho@eng.ucsd.edu</a>
                                     </span></div>
-                                    <div class="col-4"><span class="image fit"><img src="images/headshots/taylor.JPG" alt="" />
+                                    <div class="col-4"><span class="image fit"><img src="images/headshots/taylor.jpg" alt="" />
 								Taylor Stiffler <br />
                                         <b>MAE Representative</b> <br />
                                         <a href="mailto:tstiffle@ucsd.edu">tstiffle@ucsd.edu</a>

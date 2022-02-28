@@ -174,7 +174,7 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                                     </tr>
                                     <tr>
                                         <td>Two Faculty Ratings</td>
-                                        <td><a target='_blank' href="https://forms.gle/g77SZA1on8LUuJAN6" class="button scrolly">Form</a>
+                                        <td><a href="https://forms.gle/g77SZA1on8LUuJAN6" class="button scrolly">Form</a>
                                             </td>
                                     </tr>
                                     <tr>
