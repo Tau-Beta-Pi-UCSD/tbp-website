@@ -77,10 +77,7 @@ const Community = () => {
                 <div class="row gtr-uniform">
                   <div class="col-4">
                     <span class="image fit">
-                      <img
-                        src="images/headshots_2022-2023/jackson.jpg"
-                        alt=""
-                      />
+                      <img src="images/headshots_22_23/jackson.jpg" alt="" />
                       Jackson Conte
                       <br />
                       <b>President</b> <br />
@@ -89,10 +86,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img
-                        src="images/headshots_2022-2023/tejasvin.jpg"
-                        alt=""
-                      />
+                      <img src="images/headshots_22_23/tejasvin.jpg" alt="" />
                       Tejasvin Mukesh
                       <br />
                       <b>VP External Technology</b> <br />
@@ -101,7 +95,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_2022-2023/anna.jpg" alt="" />
+                      <img src="images/headshots_22_23/anna.jpg" alt="" />
                       Anna Niu <br />
                       <b>VP Internal</b> <br />
                       <a href="mailto:afniu@ucsd.edu">afniu@ucsd.edu</a>
@@ -109,10 +103,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img
-                        src="images/headshots_2022-2023/lorenzo.jpg"
-                        alt=""
-                      />
+                      <img src="images/headshots_22_23/lorenzo.jpg" alt="" />
                       Lorenzo Mendes
                       <br />
                       <b>VP Finance</b> <br />
@@ -121,7 +112,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_2022-2023/yash.jpg" alt="" />
+                      <img src="images/headshots_22_23/yash.jpg" alt="" />
                       Yash Shah <br />
                       <b>Secretary</b> <br />
                       <a href="mailto:ynshah@ucsd.edu">ynshah@ucsd.edu</a>
@@ -129,16 +120,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_2022-2023/jakob.jpg" alt="" />
-                      Jakob Getzel
-                      <br />
-                      <b>House Chair</b> <br />
-                      <a href="mailto:jgetzel@ucsd.edu">jgetzel@ucsd.edu</a>
-                    </span>
-                  </div>
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_2022-2023/david.jpg" alt="" />
+                      <img src="images/headshots_22_23/david.jpg" alt="" />
                       David Min
                       <br />
                       <b>Tech Chair</b> <br />
@@ -147,7 +129,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_2022-2023/daniel.jpg" alt="" />
+                      <img src="images/headshots_22_23/daniel.jpg" alt="" />
                       Daniel Maldonado Naranjo
                       <br />
                       <b>Outreach & Service Chair</b> <br />
@@ -156,10 +138,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img
-                        src="images/headshots_2022-2023/rebecca.jpg"
-                        alt=""
-                      />
+                      <img src="images/headshots_22_23/rebecca.jpg" alt="" />
                       Rebecca Wheeler
                       <br />
                       <b>Historian</b> <br />
@@ -168,18 +147,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_2022-2023/rahul.jpg" alt="" />
-                      Rahul Sehgal <br />
-                      <b>BENG Representative</b> <br />
-                      <a href="mailto:ejcontre@ucsd.edu">ejcontre@ucsd.edu</a>
-                    </span>
-                  </div>
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img
-                        src="images/headshots_2022-2023/jeffrey.jpg"
-                        alt=""
-                      />
+                      <img src="images/headshots_22_23/jeffrey.jpg" alt="" />
                       Jeffrey Liu
                       <br />
                       <b>CSE Representative</b> <br />
@@ -188,7 +156,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots/trevor.jpg" alt="" />
+                      <img src="images/headshots_22_23/trevor.jpg" alt="" />
                       Trevor Matthews <br />
                       <b>MAE Representative</b> <br />
                       <a href="mailto:tmatthew@ucsd.edu">tmatthew@ucsd.edu</a>
