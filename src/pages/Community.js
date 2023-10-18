@@ -132,7 +132,7 @@ const Community = () => {
                       <img src="images/headshots_22_23/daniel.jpg" alt="" />
                       Daniel Maldonado Naranjo
                       <br />
-                      <b>Outreach & Service Chair</b> <br />
+                      <b>VP Service</b> <br />
                       <a href="mailto:d8maldon@ucsd.edu">d8maldon@ucsd.edu</a>
                     </span>
                   </div>
