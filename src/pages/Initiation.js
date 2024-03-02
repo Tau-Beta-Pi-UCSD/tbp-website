@@ -22,7 +22,6 @@ const Initiation = () =>
                         <h1 class="major">Initiation</h1>
                         <p>The UC San Diego Chapter of Tau Beta Pi conducts two Initiations per academic year. Invitations to eligible students are mailed out during Weeks 1 and 2 of the Fall and Winter academic quarters to students in the <b>top 1/8th of the Junior class</b> and <b>top 1/5th of the Senior class</b>. For students to have Junior Class standing, they must have completed 90-135 units. To qualify for Senior Class standing, students must have completed over 135 units. In addition, students must have attended UCSD for at least one full academic year.</p>
                         <p>After invitations are sent out, info sessions are held for the the invited students to inform them about the initiation process to become a member. During the Initiation Cycle (approximately a 10 week period), initiates will distinguish themselves through their academic excellence and, more significantly, outstanding character. To demonstrate these qualities, initiates will submit a candidate packet that will reflect these qualities, and participate in events with Tau Beta Pi members and officers to gain a sense of the TBP community. After initiate packets are reviewed, initiates will undergo individual interviews conducted by an officer. At this point, initiates who exemplify the qualities of Tau Beta Pi will be invited to the Initiation Ceremony to become Tau Beta Pi members.</p>
-                        <p><b>Due to the current global health crisis</b>, all Tau Beta Pi events will be held virtually until further notice. Our officer board places the health and safety of our members and initiates above all else and has made the unanimous decision to hold off on in-person events until we firmly deem it safe, even if that is significantly slower than official University of California guidelines. Even at that point, we will continue the option for initiates to participate in events virtually through the end of the academic year.</p>
                         <p><strong>Once you initiate, you are a lifetime member.</strong> If you continue to come to UCSD's Tau Beta Pi events and retain active membership, you will be eligible for chapter benefits.</p>
                         <span class="image fit"><img src="images/DSC_0018.JPG" alt="" /></span>
 
@@ -32,16 +31,12 @@ const Initiation = () =>
                 <section id="points" class="wrapper style1">
                     <div class="inner">
                         <h2>Points Requirement</h2>
-                        <p>We require eligible initiates to either use our <a href="/points">point tracking app</a> or <a href="resources/Initiate_Points.pdf">a point verification form</a> over the course of their Initiation Cycle.
-A complete list of point requirements for <a href='#g-points'>graduate</a> and <a href='#u-points'>undergraduate</a> students can be found in the section after this one.
-</p>
+                        <p>We require eligible initiates to either use our <a href="/points">point tracking app</a> over the course of their Initiation Cycle. A complete list of point requirements for <a href='#g-points'>graduate</a> and <a href='#u-points'>undergraduate</a> students can be found in the section after this one.</p>
 
-                        <p>Points are usually given at a rate of 1 point per hour at each event, and require a sign off from a TBP officer as witness of your attendance. Your points list must have sign offs from at least five different officers to be considered complete. <b>If you do not use the app, the point verification form must be turned in on the day of Initiation. </b> </p>
-                        <p>If you do not use the app, the point verification form must be turned in on the day of Initiation. While 10 - 15 points might seem like a lot, last cycle initiate Nicholas Limit obtained <b>over 50 points!</b></p>
-                        <p><b>Due to the current global climate</b>, we understand that candidates may be undergoing extenuating circumstances such as large time zone differences that complicate the initiation process. If you will be affected by circumstances like these, we ask that you contact	<a href="mailto:tbp@ucsd.edu?Subject=Initiation%20cycle" target="_top">tbp@ucsd.edu</a> to notify our officers as early as possible. Regardless of circumstance, our officers will work towards ensuring that every candidate has a fair and enjoyable initiation cycle.
-							</p>
+                        <p>Points are usually given at a rate of 1 point per hour at each event, and require a sign off from a TBP officer as witness of your attendance.</p>
+                        {/* I don't think we need this anymore. I don't even know what year this guy was from - Vincent
+                        <p>If you do not use the app, the point verification form must be turned in on the day of Initiation. While 10 - 15 points might seem like a lot, last cycle initiate Nicholas Limit obtained <b>over 50 points!</b></p>*/}
                         <a href="/points" class="button scrolly" >Points App</a>
-                        <a href="resources/Initiate_Points.pdf" class="button scrolly" Download>Download Points Form</a>
                     </div>
                 </section>
 
@@ -132,6 +127,8 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                         </div>
                     </div>
                 </section>
+                {/* Hiding for now until we receive updates on this - Do we have Big/Little for WI24? Does the Bent Design Project still exist? - Vincent
+
                 <section id="packet" class="wrapper style2">
                     <div class="inner">
                         <h2>Big / Little Matching</h2>
@@ -155,11 +152,12 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                             </div>
                         </div>
                     </section>
-                </section>
+                </section>*/}
                 <section id="packet" class="wrapper style2">
                     <div class="inner">
                         <h2>Candidate Packets</h2>
-                        <p>The following materials should be submitted to the "Candidate Packet Submission" google form at the bottom of the list. The submission deadline for the current Initiation Cycle is <b>February 23, 2022 at 5:00 PM.</b></p>
+                        {/* Deadline updated for WI 24 */}
+                        <p>The following materials should be submitted to the "Candidate Packet Submission" google form at the bottom of the list. The submission deadline for the current Initiation Cycle is <b>February 28, 2024 at 5:00 PM.</b></p>
                         <div class="table-wrapper">
                             <table>
                                 <tbody>
@@ -174,7 +172,8 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                                     </tr>
                                     <tr>
                                         <td>Two Faculty Ratings</td>
-                                        <td><a href="https://forms.gle/g77SZA1on8LUuJAN6" class="button scrolly">Form</a>
+                                        {/* Updated for WI 24 */}
+                                        <td><a href="https://forms.gle/MsTfMfxEbRLiSEK88" class="button scrolly">Form</a>
                                             </td>
                                     </tr>
                                     <tr>
@@ -189,7 +188,8 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                                     </tr>
                                     <tr>
                                         <td>Candidate Packet Submission</td>
-                                        <td><a href="https://forms.gle/rgGyhGGLt9B7FxMk7" class="button scrolly" Download>Google Form</a></td>
+                                        {/* Updated for WI 24 */}
+                                        <td><a href="https://forms.gle/u4k9KdxzRvL13qDN6" class="button scrolly" Download>Google Form</a></td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -200,9 +200,8 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                 <section id="interview" class="wrapper style1">
                     <div class="inner">
                         <h2>Interviews</h2>
-                        <p>
-                            Interviews will be scheduled around
-<b> Week 1 or Week 2 of Winter Quarter </b> and will be hosted virtually over <b>Zoom</b>. These are primarily an opportunity for the Tau Beta Pi members to get to know you, but will also be used to assess your character and what you may bring to the organization. It is important that the information packet be turned in on time so that the members can learn about you before the interview. We will schedule interviews by e-mail during the weeks prior to the interviews. <b> Business attire is required. </b> Anyone who is not dressed properly will be asked to <b>leave and come back on a later date. </b>
+                        <p>{/* Updated for WI 24 */}
+                            Interviews will be scheduled around <b> Week 1 or Week 2 of Spring Quarter</b>. These are primarily an opportunity for the Tau Beta Pi members to get to know you, but will also be used to assess your character and what you may bring to the organization. It is important that the information packet be turned in on time so that the members can learn about you before the interview. We will schedule interviews by e-mail during the weeks prior to the interviews. <b> Business attire is required. </b> Anyone who is not dressed properly will be asked to <b>leave and come back on a later date. </b>
                         </p>
                     </div>
                 </section>
@@ -211,8 +210,10 @@ A complete list of point requirements for <a href='#g-points'>graduate</a> and <
                     <div class="inner">
                         <h2>Initation ceremony</h2>
                         <p>
-                            <b>Initiation is mandatory!</b> Any eligible initiate unable to make it to initiation will not be able to initiate this term! A one-time lifetime membership fee of <b>$110</b> (made payable to "UCSD Tau Beta Pi") is due on the night of initiation. Payments can be made through Venmo or cash/check. This fee covers chapter operating costs, dues to TBP national headquarters, cost of initiation materials, and the initiate banquet. <b> Business attire is required. </b> Anyone who is not dressed appropriately will not be able to take part in the ceremony.
-								The date of the initiation ceremony for the fall cycle is <b>April 16, 2022.</b></p>
+                            <b>Initiation is mandatory!</b> Any eligible initiate unable to make it to initiation will not be able to initiate this term! A one-time lifetime membership fee of <b>$115</b> (made payable to "UCSD Tau Beta Pi") is due on the night of initiation. Payments can be made through Venmo or cash/check. This fee covers chapter operating costs, dues to TBP national headquarters, cost of initiation materials, and the initiate banquet. <b> Business attire is required. </b> Anyone who is not dressed appropriately will not be able to take part in the ceremony.
+						</p>
+                            {/* Updated for WI 24 */}
+                        <p>The date of the initiation ceremony for the Winter cycle is <b>April 20, 2024.</b></p>
                     </div>
                 </section>
             </div>
