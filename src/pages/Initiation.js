@@ -54,12 +54,12 @@ const Initiation = () =>
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td>3</td>
-                                        <td>Social/House Events</td>
-                                        <td>at least one individual house and one all-house competition</td>
+                                        <td>2</td>
+                                        <td>Social Events</td>
+                                        <td>-</td>
                                     </tr>
                                     <tr>
-                                        <td>3</td>
+                                        <td>2</td>
                                         <td>Academic/Professional Events</td>
                                         <td>including a <b>mandatory resumé critique</b></td>
                                     </tr>
@@ -74,7 +74,7 @@ const Initiation = () =>
                                         <td>-</td>
                                     </tr>
                                     <tr>
-                                        <td>6</td>
+                                        <td>3</td>
                                         <td>Any Events/Flex Points</td>
                                         <td>including <b>family</b> events</td>
                                     </tr>
@@ -98,17 +98,17 @@ const Initiation = () =>
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td>2</td>
-                                        <td>Social/House Events</td>
-                                        <td>at least one individual house and one all-house competition</td>
-                                    </tr>
-                                    <tr>
-                                        <td>2</td>
-                                        <td>Academic/Professional Events</td>
+                                        <td>1</td>
+                                        <td>Social Event</td>
                                         <td>-</td>
                                     </tr>
                                     <tr>
                                         <td>2</td>
+                                        <td>Academic/Professional Events</td>
+                                        <td>including a <b>mandatory resumé critique</b></td>
+                                    </tr>
+                                    <tr>
+                                        <td>2</td>  
                                         <td>Outreach/Community Service Events</td>
                                         <td>-</td>
                                     </tr>
@@ -118,7 +118,7 @@ const Initiation = () =>
                                         <td>-</td>
                                     </tr>
                                     <tr>
-                                        <td>3</td>
+                                        <td>2</td>
                                         <td>Any Events/Flex Points</td>
                                         <td>including <b>family</b> events</td>
                                     </tr>
@@ -127,7 +127,7 @@ const Initiation = () =>
                         </div>
                     </div>
                 </section>
-                {/* Hiding for now until we receive updates on this - Do we have Big/Little for WI24? Does the Bent Design Project still exist? - Vincent
+                {/* We do have Big/Little for WI 24! Update with info */}
 
                 <section id="packet" class="wrapper style2">
                     <div class="inner">
@@ -135,11 +135,15 @@ const Initiation = () =>
                         <p> Tau Beta Pi now officially has a big little system! We encourage newer members / initiates who want to get more immersed in TBP life to sign up to become a little.
                         Littles are paired with bigs, usually veteran members of TBP who already have jobs and ample experience, based on personality and career factors.
                         The pair are expected to spend time together in TBP events. This is a perfect opportunity to connect/network with your fellow Tau Bates!</p>
-                        <p>If you are interested, the Big/Little Matching Sheet should be completed via Google Form by <b>February 24, 2021 at 5:00 PM</b>.
+                        <p>You can opt in to the Big / Little system during the submission of your candidate packet. Watch this space for more information on the Big / Little system!
               </p>
+                        {/* Update this once we have a sign up form
                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJaJysczS5fl87qefOkl9IsXi97g1WK7klkFWuIAWK20h7kw/viewform" class="button scrolly">CLICK HERE TO SIGN UP</a>
+                        */}
                     </div>
                 </section>
+
+                {/* Replace Bent design project with T-Shirt design contest
                 <section id="packet" class="wrapper style1 spotlights">
                     <section>
                         <div class="image"><img src="images/russel_bent.png" alt=""

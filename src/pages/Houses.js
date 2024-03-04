@@ -84,6 +84,7 @@ export class Houses extends Component
     {
         return (
             <>
+                {/* Not something we're doing right now. Page is around in case it comes back. */}
                 <head>
                     <title>TBP Houses</title>
                 </head>

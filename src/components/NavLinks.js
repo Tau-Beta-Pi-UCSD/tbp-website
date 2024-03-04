@@ -49,11 +49,12 @@ const NavLinks = props =>
                 >
                     <NavItem to='events' name='Events' setActive={ activateLink } active={ active } />
                 </li>
+                {/* Not something we do right now - Leaving this in case we bring it back - Vincent
                 <li
                     style={ mobileStyle() }
                 >
                     <NavItem to='houses' name="Houses & Families" setActive={ activateLink } active={ active } />
-                </li>
+                </li> */}
             </ul>
         </nav>
     )
