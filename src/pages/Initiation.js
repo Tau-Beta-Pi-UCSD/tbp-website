@@ -129,6 +129,7 @@ const Initiation = () =>
                 </section>
                 {/* We do have Big/Little for WI 24! Update with info */}
 
+                {/* 
                 <section id="packet" class="wrapper style2">
                     <div class="inner">
                         <h2>Big / Little Matching</h2>
@@ -139,9 +140,9 @@ const Initiation = () =>
               </p>
                         {/* Update this once we have a sign up form
                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJaJysczS5fl87qefOkl9IsXi97g1WK7klkFWuIAWK20h7kw/viewform" class="button scrolly">CLICK HERE TO SIGN UP</a>
-                        */}
+                        * /}
                     </div>
-                </section>
+                </section> */}
 
                 {/* Replace Bent design project with T-Shirt design contest
                 <section id="packet" class="wrapper style1 spotlights">
