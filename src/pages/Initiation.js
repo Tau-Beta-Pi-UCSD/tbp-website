@@ -54,12 +54,12 @@ const Initiation = () =>
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td>3</td>
-                                        <td>Social/House Events</td>
-                                        <td>at least one individual house and one all-house competition</td>
+                                        <td>2</td>
+                                        <td>Social Events</td>
+                                        <td>-</td>
                                     </tr>
                                     <tr>
-                                        <td>3</td>
+                                        <td>2</td>
                                         <td>Academic/Professional Events</td>
                                         <td>including a <b>mandatory resumé critique</b></td>
                                     </tr>
@@ -74,7 +74,7 @@ const Initiation = () =>
                                         <td>-</td>
                                     </tr>
                                     <tr>
-                                        <td>6</td>
+                                        <td>3</td>
                                         <td>Any Events/Flex Points</td>
                                         <td>including <b>family</b> events</td>
                                     </tr>
@@ -98,17 +98,17 @@ const Initiation = () =>
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td>2</td>
-                                        <td>Social/House Events</td>
-                                        <td>at least one individual house and one all-house competition</td>
-                                    </tr>
-                                    <tr>
-                                        <td>2</td>
-                                        <td>Academic/Professional Events</td>
+                                        <td>1</td>
+                                        <td>Social Event</td>
                                         <td>-</td>
                                     </tr>
                                     <tr>
                                         <td>2</td>
+                                        <td>Academic/Professional Events</td>
+                                        <td>including a <b>mandatory resumé critique</b></td>
+                                    </tr>
+                                    <tr>
+                                        <td>2</td>  
                                         <td>Outreach/Community Service Events</td>
                                         <td>-</td>
                                     </tr>
@@ -118,7 +118,7 @@ const Initiation = () =>
                                         <td>-</td>
                                     </tr>
                                     <tr>
-                                        <td>3</td>
+                                        <td>2</td>
                                         <td>Any Events/Flex Points</td>
                                         <td>including <b>family</b> events</td>
                                     </tr>
@@ -127,32 +127,45 @@ const Initiation = () =>
                         </div>
                     </div>
                 </section>
-                {/* Hiding for now until we receive updates on this - Do we have Big/Little for WI24? Does the Bent Design Project still exist? - Vincent
+                {/* We do have Big/Little for WI 24! Update with info */}
 
+                
                 <section id="packet" class="wrapper style2">
                     <div class="inner">
                         <h2>Big / Little Matching</h2>
                         <p> Tau Beta Pi now officially has a big little system! We encourage newer members / initiates who want to get more immersed in TBP life to sign up to become a little.
                         Littles are paired with bigs, usually veteran members of TBP who already have jobs and ample experience, based on personality and career factors.
                         The pair are expected to spend time together in TBP events. This is a perfect opportunity to connect/network with your fellow Tau Bates!</p>
-                        <p>If you are interested, the Big/Little Matching Sheet should be completed via Google Form by <b>February 24, 2021 at 5:00 PM</b>.
+                        <p>You can opt in to the Big / Little system during the submission of your candidate packet. Watch this space for more information on the Big / Little system!
               </p>
+                        {/* Update this once we have a sign up form
                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJaJysczS5fl87qefOkl9IsXi97g1WK7klkFWuIAWK20h7kw/viewform" class="button scrolly">CLICK HERE TO SIGN UP</a>
+                        */}
                     </div>
                 </section>
+
                 <section id="packet" class="wrapper style1 spotlights">
                     <section>
+                        {/* Maybe add an image here - Vincent                         
                         <div class="image"><img src="images/russel_bent.png" alt=""
-                            data-position="center center" /></div>
+                            data-position="center center" /></div> */}
                         <div class="content">
                             <div class="inner">
-                                <h2>Bent Design Project</h2>
-                                <p>The Bent is the official symbol of Tau Beta Pi. At Coffee with an Officer, each initiate will receive a miniature bronze Bent and will be set with the task of <b>designing and creating an engineering project with the Bent as a centerpiece</b>. This may be as simple as polishing the Bent and setting it in a scene of origami cranes, or welding it to a staff. Initiates will present these projects at the Initiation Ceremony—the initiate who presents the most creative Bent will have their <strong>initiation fee waived</strong> and will be <b>featured on our site!</b>
+                                {/* Updated for WI 24 */}
+                                <h2>T-Shirt Design Competition</h2>
+                                <p>
+                                    Open to all initiates, the T-Shirt Design Competition is a chance to show off your creativity and design skills. The winning design will be printed on the TBP shirts for the next initiation cycle. <b>The winner will also have their $115 initiation fee waived.</b> You can submit as many designs as you want, and the winner will be chosen by the TBP officers.
                                 </p>
+                                <p>
+                                    Designs are due <b>Friday May 3rd</b> for the Winter 2024 cycle.
+                                </p>
+                                <a href="https://drive.google.com/drive/u/1/folders/1VyQBEOfMQemYvhu1A0qaJj9Q77GwCeLh" class="button scrolly">Sample Designs</a>
+                                <a href="https://forms.gle/MxfqLcRmDQe32SbEA" class="button scrolly">Submission Link</a>
+
                             </div>
                         </div>
                     </section>
-                </section>*/}
+                </section>
                 <section id="packet" class="wrapper style2">
                     <div class="inner">
                         <h2>Candidate Packets</h2>
@@ -210,7 +223,10 @@ const Initiation = () =>
                     <div class="inner">
                         <h2>Initation ceremony</h2>
                         <p>
-                            <b>Initiation is mandatory!</b> Any eligible initiate unable to make it to initiation will not be able to initiate this term! A one-time lifetime membership fee of <b>$115</b> (made payable to "UCSD Tau Beta Pi") is due on the night of initiation. Payments can be made through Venmo or cash/check. This fee covers chapter operating costs, dues to TBP national headquarters, cost of initiation materials, and the initiate banquet. <b> Business attire is required. </b> Anyone who is not dressed appropriately will not be able to take part in the ceremony.
+                            <b>Initiation is mandatory!</b> Any eligible initiate unable to make it to initiation will not be able to initiate this term! A one-time lifetime membership fee of <b>$115</b> (made payable to "UCSD Tau Beta Pi") is due on the night of initiation. The entire fee is waived for the <b>initiate with the most points</b> and <b>the winner of the T-Shirt design competition!</b> 
+                        </p>    
+                        <p>
+                        Payments can be made through Venmo or cash/check. This fee covers chapter operating costs, dues to TBP national headquarters, cost of initiation materials, and the initiate banquet. <b> Business attire is required. </b> Anyone who is not dressed appropriately will not be able to take part in the ceremony.
 						</p>
                             {/* Updated for WI 24 */}
                         <p>The date of the initiation ceremony for the Winter cycle is <b>April 20, 2024.</b></p>
