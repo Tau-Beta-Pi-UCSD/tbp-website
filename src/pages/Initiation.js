@@ -237,7 +237,7 @@ const Initiation = () =>
             <footer id="footer" class="wrapper style2">
                 <div class="inner">
                     <ul class="menu">
-                        <li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                        <li>&copy; Tau Beta Pi California Psi. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
                     </ul>
                 </div>
             </footer>
