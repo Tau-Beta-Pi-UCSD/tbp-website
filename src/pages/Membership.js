@@ -114,7 +114,11 @@ const Membership = () =>
                         <div class="inner">
                             <h2>Scholarships and Fellowships</h2>
                             <p>
-                                TBP provides many opportunities for stipends used to further the education of current members. There were 40 fellowship recipients of $10,000 stipends, and more than 1,700 recipients of scholarships for the 2013-2014 year. If you are more interested in scholarship/fellowship opportunities, please visit the TBP headquarters webpage.
+                                TBP provides many opportunities for stipends used to further the education 
+                                of current members. Awards have been made to more than 2,798 Scholars for 
+                                their senior year of engineering study. If you are more interested in 
+                                scholarship/fellowship opportunities, please visit the TBP headquarters 
+                                webpage.
 							</p>
                             <ul class="actions">
                                 <li><a href="https://www.tbp.org/scholarships.cfm" class="button">Explore TBP Scholarships</a></li>
@@ -126,7 +130,7 @@ const Membership = () =>
                 <footer id="footer" class="wrapper style2">
                     <div class="inner">
                         <ul class="menu">
-                            <li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                            <li>&copy; Tau Beta Pi California Psi. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
                         </ul>
                     </div>
                 </footer>

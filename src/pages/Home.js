@@ -41,7 +41,7 @@ export class Home extends Component
                                     nurturing our integrity, character, and charitability through hosting events.
 						</p>
                                     <ul class="actions">
-                                        <li><a href="culture" class="button">Explore Our Chapter</a></li>
+                                        <li><a href="community" class="button">Explore Our Chapter</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -103,6 +103,7 @@ export class Home extends Component
                                                 class="label">Facebook</span></a></li>
                                             <li><a href="https://www.linkedin.com/company/the-tau-beta-pi-association-inc./"
                                                 class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
+                                            <li><a href = "https://www.instagram.com/tbpucsd/" class="fa-instagram"><span class="label">Instagram</span></a></li>
                                         </ul>
                                     </li>
                                 </ul>

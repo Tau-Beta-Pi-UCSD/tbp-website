@@ -187,9 +187,8 @@ const Community = () => {
                   <p>
                     We try to give back to our community and inspure future
                     engineers through our community service and outreach events
-                    including our weekly events at our local Florence Elementary
-                    School, our environmental clean-ups, and our trips to
-                    orphanges in Tijuana.
+                    including our collaborations with Nova Spero, our environmental clean-ups, and our trips to
+                    orphanages in Tijuana.
                   </p>
                 </section>
                 <section>
@@ -202,6 +201,7 @@ const Community = () => {
                     celebrate the end of the year.
                   </p>
                 </section>
+                {/* Not doing this rn - Vincent
                 <section>
                   <span class="icon major fa-chain"></span>
                   <h3>House System</h3>
@@ -211,7 +211,9 @@ const Community = () => {
                     We have three houses: Red, Green, and Blue House; which
                     compete during each initiation cycle to earn a reward.{" "}
                   </p>
-                </section>
+                </section> */}
+
+                {/* Maybe add Big/Little program? As its own secction or replace Pi Day? - Vincent*/}
                 <section>
                   <span class="icon major fa-diamond"></span>
                   <h3>Pi Day</h3>
@@ -223,6 +225,7 @@ const Community = () => {
                     Committee.
                   </p>
                 </section>
+                {/* Not doing this either -Vincent
                 <section>
                   <span class="icon major fa-chain"></span>
                   <h3>Family System</h3>
@@ -231,7 +234,7 @@ const Community = () => {
                     candidates with a direct point of contact and opportunities
                     to get to know other candidates and members.
                   </p>
-                </section>
+                </section> */}
               </div>
             </div>
           </section>
