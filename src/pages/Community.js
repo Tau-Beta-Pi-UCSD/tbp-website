@@ -195,7 +195,7 @@ const Community = () => {
                   <span class="icon major fa-lock"></span>
                   <h3>Social Events</h3>
                   <p>
-                    We hold our weekly board games and pool as well as other fun
+                    We hold board game nights and pool as well as other fun
                     events like hiking, laser tag, and ice skating to destress
                     and mingle. We also have an annual banquet and bonfire to
                     celebrate the end of the year.
