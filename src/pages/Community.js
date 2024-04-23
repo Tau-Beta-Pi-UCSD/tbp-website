@@ -77,7 +77,7 @@ const Community = () => {
                 <div class="row gtr-uniform">
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_22_23/anna.jpg" alt="" />
+                      <img src="images/headshots_23_24/anna.jpg" alt="" />
                       Anna Niu
                       <br />
                       <b>President</b> <br />
@@ -94,7 +94,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_22_23/jeffrey.jpg" alt="" />
+                      <img src="images/headshots_23_24/jeffrey.jpg" alt="" />
                       Jeffrey Liu
                       <br />
                       <b>VP External Technology</b> <br />
@@ -103,7 +103,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      <img src="images/headsjpts_23_24/preston.jpg" alt="" />
                       Preston Ellis
                       <br />
                       <b>VP External Technology</b> <br />
@@ -128,7 +128,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_22_23/trevor.jpg" alt="" />
+                      <img src="images/headshots_23_24/trevor.jpg" alt="" />
                       Trevor Matthews
                       <br />
                       <b>VP Finance</b> <br />
@@ -186,7 +186,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_22_23/david.jpg" alt="" />
+                      <img src="images/headshots_23_24/david.jpg" alt="" />
                       David Min
                       <br />
                       <b>Technology Chair</b> <br />
