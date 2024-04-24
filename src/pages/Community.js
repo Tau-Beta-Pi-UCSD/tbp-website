@@ -77,53 +77,68 @@ const Community = () => {
                 <div class="row gtr-uniform">
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_24_25/malia.jpg" alt="" />
-                      Malia Monge
+                      <img src="images/headshots_23_24/anna.jpg" alt="" />
+                      Anna Niu
                       <br />
                       <b>President</b> <br />
-                      <a href="mailto:mmonge@ucsd.edu">mmonge@ucsd.edu</a>
+                      <a href="mailto:afniu@ucsd.edu">afniu@ucsd.edu</a>
                     </span>
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_24_25/will.jpg" alt="" />
-                      William Zhang
-                      <br />
+                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      Melina Dimitropoulou <br />
                       <b>President</b> <br />
-                      <a href="mailto:wiz002@ucsd.edu">wiz002@ucsd.edu</a>
+                      <a href="mailto:mdimitropoulouka@ucsd.edu">mdimitropoulouka@ucsd.edu</a>
                     </span>
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_24_25/praveen.jpg" alt="" />
-                      Praveen Swaminathan
+                      <img src="images/headshots_23_24/jeffrey.jpg" alt="" />
+                      Jeffrey Liu
                       <br />
-                      <b>VP External: Engineering</b> <br />
-                      <a href="mailto:pswaminathan@ucsd.edu">pswaminathan@ucsd.edu</a>
+                      <b>VP External Technology</b> <br />
+                      <a href="mailto:jyliu@ucsd.edu">jyliu@ucsd.edu</a>
                     </span>
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_24_25/TBPNationalLogo.jpg" alt="" />
-                      Aniruddh Krovvidi
+                      <img src="images/headsjpts_23_24/preston.jpg" alt="" />
+                      Preston Ellis
                       <br />
-                      <b>VP External: Technology</b> <br />
-                      <a href="mailto:akrovvidi@ucsd.edu">akrovvidi@ucsd.edu</a>
+                      <b>VP External Technology</b> <br />
+                      <a href="mailto:pellis@ucsd.edu">pellis@ucsd.edu</a>
                     </span>
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_24_25/TBPNationalLogo.jpg" alt="" />
-                      Jade Chng
-                      <br />
+                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      Rridhisha Kumar <br />
                       <b>VP Internal</b> <br />
-                      <a href="mailto:jchng@ucsd.edu">jchng@ucsd.edu</a>
+                      <a href="mailto:rrkumar@ucsd.edu">rrkumar@ucsd.edu</a>
                     </span>
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_24_25/max.png" alt="" />
-                      Max Vroemen
+                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      Radha Ambe <br />
+                      <b>VP Internal</b> <br />
+                      <a href="mailto:rambe@ucsd.edu">rambe@ucsd.edu</a>
+                    </span>
+                  </div>
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_23_24/trevor.jpg" alt="" />
+                      Trevor Matthews
+                      <br />
+                      <b>VP Finance</b> <br />
+                      <a href="mailto:tmatthew@ucsd.edu">tmatthew@ucsd.edu</a>
+                    </span>
+                  </div>
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_23_24/max.png" alt="" />
+                      Max Vroeman
                       <br />
                       <b>VP Finance</b> <br />
                       <a href="mailto:mvroemen@ucsd.edu">mvroemen@ucsd.edu</a>
@@ -131,61 +146,101 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_24_25/evelyn.jpeg" alt="" />
-                      Evelyn Doan
-                      <br />
-                      <b>Secretary & Historian</b> <br />
-                      <a href="mailto:etdoan@ucsd.edu">etdoan@ucsd.edu</a>
+                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      William Zhang <br />
+                      <b>Secretary</b> <br />
+                      <a href="mailto:wiz002@ucsd.edu">wiz002@ucsd.edu</a>
                     </span>
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_24_25/TBPNationalLogo.jpg" alt="" />
-                      Melina Dimitropoulou
-                      <br />
+                      <img src="images/headshots_23_24/malia.jpg" alt="" />
+                      Malia Monge <br />
                       <b>Social Chair</b> <br />
-                      <a href="mailto:mdimitropoulouka@ucsd.edu">mdimitropoulouka@ucsd.edu</a>
+                      <a href="mailto:mmonge@ucsd.edu">mmonge@ucsd.edu</a>
                     </span>
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_24_25/TBPNationalLogo.jpg" alt="" />
-                      Radha Ambe
-                      <br />
+                      <img src="images/headshots_23_24/casey.jpg" alt="" />
+                      Casey Hild <br />
                       <b>Social Chair</b> <br />
-                      <a href="mailto:rambe@ucsd.edu">rambe@ucsd.edu</a>
+                      <a href="mailto:child@ucsd.edu">child@ucsd.edu</a>
                     </span>
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_24_25/TBPNationalLogo.jpg" alt="" />
-                      Eric Zheng
+                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      Shayan Alipourjeddi <br />
+                      <b>Campus Engagement Chair</b> <br />
+                      <a href="mailto:salipourjeddi@ucsd.edu">salipourjeddi@ucsd.edu</a>
+                    </span>
+                  </div>
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      Alexis Vergnet <br />
+                      <b>Campus Engagement Chair</b> <br />
+                      <a href="mailto:avergnet@ucsd.edu">avergnet@ucsd.edu</a>
+                    </span>
+                  </div>
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_23_24/david.jpg" alt="" />
+                      David Min
                       <br />
                       <b>Technology Chair</b> <br />
-                      <a href="mailto:erzheng@ucsd.edu">erzheng@ucsd.edu</a>
+                      <a href="mailto:dmin@ucsd.edu">dmin@ucsd.edu</a>
                     </span>
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_24_25/TBPNationalLogo.jpg" alt="" />
-                      Nicholas Ormsby
+                      <img src="images/headshots_23_24/vincent.png" alt="" />
+                      Vincent Zhang
                       <br />
                       <b>Technology Chair</b> <br />
-                      <a href="mailto:nlormsby@ucsd.edu">nlormsby@ucsd.edu</a>
+                      <a href="mailto:wez032@ucsd.edu">wez032@ucsd.edu</a>
                     </span>
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_24_25/TBPNationalLogo.jpg" alt="" />
-                      Alex Lorang
+                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      Gayathri Donepudi
                       <br />
-                      <b>Outreach & Service Chair</b> <br />
-                      <a href="mailto:alorang@ucsd.edu">alorang@ucsd.edu</a>
+                      <b>VP Service</b> <br />
+                      <a href="mailto:gdonepudi@ucsd.edu">gdonepudi@ucsd.edu</a>
                     </span>
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_24_25/TBPNationalLogo.jpg" alt="" />
+                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      Jade Chng
+                      <br />
+                      <b>VP Service</b> <br />
+                      <a href="mailto:jchng@ucsd.edu">jchng@ucsd.edu</a>
+                    </span>
+                  </div>
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      Elizaveata Borroum
+                      <br />
+                      <b>BENG Representative</b> <br />
+                      <a href="mailto:eborroum@ucsd.edu">eborroum@ucsd.edu</a>
+                    </span>
+                  </div>
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_23_24/alexander.jpg" alt="" />
+                      Alexander Lange
+                      <br />
+                      <b>BENG Representative</b> <br />
+                      <a href="mailto:aglange@ucsd.edu">aglange@ucsd.edu</a>
+                    </span>
+                  </div>
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_23_24/nick.jpg" alt="" />
                       Nick Monell
                       <br />
                       <b>BENG Representative</b> <br />
@@ -194,47 +249,36 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_24_25/TBPNationalLogo.jpg" alt="" />
-                      Nishant Sharma
-                      <br />
-                      <b>BENG Representative</b> <br />
-                      <a href="mailto:n8sharma@ucsd.edu">n8sharma@ucsd.edu</a>
-                    </span>
-                  </div>
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_24_25/jaehoon.jpg" alt="" />
-                      Jaehoon Kim
-                      <br />
-                      <b>CSE Representative</b> <br />
-                      <a href="mailto:jjk015@ucsd.edu">jjk015@ucsd.edu</a>
-                    </span>
-                  </div>
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_24_25/TBPNationalLogo.jpg" alt="" />
-                      Alexander Hunter
-                      <br />
+                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      Hans Chen
+                      <br/>
                       <b>MAE Representative</b> <br />
-                      <a href="mailto:a3hunter@ucsd.edu">a3hunter@ucsd.edu</a>
+                      <a href="mailto:hac013@uccsd.edu">hac013@uccsd.edu</a>
                     </span>
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_24_25/TBPNationalLogo.jpg" alt="" />
-                      Evan Yu
-                      <br />
-                      <b>NANO Representative</b> <br />
-                      <a href="mailto:evyu@ucsd.edu">evyu@ucsd.edu</a>
-                    </span>
-                  </div>
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_24_25/asa.jpg" alt="" />
+                      <img src="images/TBPNationalLogo.jpg" alt="" />
                       Asa Alstead
-                      <br />
+                      <br/>
                       <b>SE Representative</b> <br />
-                      <a href="mailto:aalstead@ucsd.edu">aalstead@ucsd.edu</a>
+                      <a href="mailto:aalstead@uccsd.edu">aalstead@uccsd.edu</a>
+                    </span>
+                  </div>
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_23_24/praveen.jpg" alt="" />
+                      Praveen Swaminathan<br />
+                      <b>ECE Representative</b> <br />
+                      <a href="mailto:pswaminathan@ucsd.edu">pswaminathan@ucsd.edu</a>
+                    </span>
+                  </div>
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      Evelyn Doan<br />
+                      <b>NANO Representative</b> <br />
+                      <a href="mailto:etdoan@ucsd.edu">etdoan@ucsd.edu</a>
                     </span>
                   </div>
                 </div>
@@ -270,7 +314,7 @@ const Community = () => {
                   <span class="icon major fa-lock"></span>
                   <h3>Social Events</h3>
                   <p>
-                    We hold our weekly board games and pool as well as other fun
+                    We hold board game nights and pool as well as other fun
                     events like hiking, laser tag, and ice skating to destress
                     and mingle. We also have an annual banquet and bonfire to
                     celebrate the end of the year.

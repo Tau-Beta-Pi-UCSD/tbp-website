@@ -34,14 +34,14 @@ const Membership = () =>
                             </ul>
                         </div>
                     </section>
-
+                    {/* Not currently doing Active membership - Vincent
                     <section id="benefits" class="wrapper style1">
                         <div class="inner">
                             <h2>Active Membership Benefits</h2>
                             <p>Benefits for being a Tau Beta Pi active member include:
 								<ul>
                                     <li>Priority to events with restricted participation</li>
-                                    <li>Discount on Social Events (Variable for every Event</li>
+                                    <li>Discount on Social Events (Variable for every Event)</li>
                                     <li>Discounts on stoles and cords</li>
                                     <li>Free entrance to end of year banquet</li>
                                     <li>Coffee hours with professors (Once per quarter)</li>
@@ -74,6 +74,7 @@ const Membership = () =>
                             </div>
                         </section>
                     </section>
+                    */}
 
                     <section id="leadership" class="wrapper style1 spotlights">
                         <section>
