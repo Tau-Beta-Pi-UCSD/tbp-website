@@ -86,7 +86,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      <img src="images//headshots_23_24/TBPNationalLogo.jpg" alt="" />
                       Melina Dimitropoulou <br />
                       <b>President</b> <br />
                       <a href="mailto:mdimitropoulouka@ucsd.edu">mdimitropoulouka@ucsd.edu</a>
@@ -103,7 +103,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headsjpts_23_24/preston.jpg" alt="" />
+                      <img src="images/headshots_23_24/preston.jpg" alt="" />
                       Preston Ellis
                       <br />
                       <b>VP External Technology</b> <br />
@@ -112,7 +112,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      <img src="images//headshots_23_24/TBPNationalLogo.jpg" alt="" />
                       Rridhisha Kumar <br />
                       <b>VP Internal</b> <br />
                       <a href="mailto:rrkumar@ucsd.edu">rrkumar@ucsd.edu</a>
@@ -120,7 +120,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      <img src="images//headshots_23_24/TBPNationalLogo.jpg" alt="" />
                       Radha Ambe <br />
                       <b>VP Internal</b> <br />
                       <a href="mailto:rambe@ucsd.edu">rambe@ucsd.edu</a>
@@ -146,7 +146,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      <img src="images/headshots_23_24/will.jpg" alt="" />
                       William Zhang <br />
                       <b>Secretary</b> <br />
                       <a href="mailto:wiz002@ucsd.edu">wiz002@ucsd.edu</a>
@@ -170,7 +170,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      <img src="images//headshots_23_24/TBPNationalLogo.jpg" alt="" />
                       Shayan Alipourjeddi <br />
                       <b>Campus Engagement Chair</b> <br />
                       <a href="mailto:salipourjeddi@ucsd.edu">salipourjeddi@ucsd.edu</a>
@@ -178,7 +178,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      <img src="images//headshots_23_24/TBPNationalLogo.jpg" alt="" />
                       Alexis Vergnet <br />
                       <b>Campus Engagement Chair</b> <br />
                       <a href="mailto:avergnet@ucsd.edu">avergnet@ucsd.edu</a>
@@ -204,7 +204,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      <img src="images//headshots_23_24/TBPNationalLogo.jpg" alt="" />
                       Gayathri Donepudi
                       <br />
                       <b>VP Service</b> <br />
@@ -213,7 +213,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      <img src="images//headshots_23_24/TBPNationalLogo.jpg" alt="" />
                       Jade Chng
                       <br />
                       <b>VP Service</b> <br />
@@ -222,7 +222,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      <img src="images//headshots_23_24/TBPNationalLogo.jpg" alt="" />
                       Elizaveata Borroum
                       <br />
                       <b>BENG Representative</b> <br />
@@ -249,7 +249,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      <img src="images//headshots_23_24/TBPNationalLogo.jpg" alt="" />
                       Hans Chen
                       <br/>
                       <b>MAE Representative</b> <br />
@@ -258,7 +258,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      <img src="images//headshots_23_24/asa.jpg" alt="" />
                       Asa Alstead
                       <br/>
                       <b>SE Representative</b> <br />
@@ -275,7 +275,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/TBPNationalLogo.jpg" alt="" />
+                      <img src="images//headshots_23_24/evelyn.jpeg" alt="" />
                       Evelyn Doan<br />
                       <b>NANO Representative</b> <br />
                       <a href="mailto:etdoan@ucsd.edu">etdoan@ucsd.edu</a>

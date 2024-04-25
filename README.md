@@ -69,4 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 # Going live
 
-In the /build directory, run `scp -r * tbp@sysnet.sysnet.ucsd.edu:~/website2014-15`
+In the /build directory, run `scp -r * tbp@sysnet.sysnet.ucsd.edu:~/website2014_15`
