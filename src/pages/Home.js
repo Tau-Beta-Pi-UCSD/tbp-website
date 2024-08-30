@@ -30,7 +30,7 @@ export class Home extends Component
 
                     <section id="who" class="wrapper style2 spotlights">
                         <section>
-                            <div class="image"><img src="images/DSC_0033.JPG" alt="" data-position="25% 25%" />
+                            <div class="image"><img src="images/DSC_0033.JPG" height="100%" width="110%" alt="" data-position="25% 25%" />
                             </div>
                             <div class="content">
                                 <div class="inner">
@@ -50,7 +50,7 @@ export class Home extends Component
 
                     <section id="join" class="wrapper style1 spotlights">
                         <section>
-                            <a href="initiation" class="image"><img src="images/DSC_0015.JPG" alt=""
+                            <a href="initiation" class="image"><img src="images/DSC_0015.JPG" height="100%" width="110%" alt=""
                                 data-position="center center" /></a>
                             <div class="content">
                                 <div class="inner">
@@ -66,7 +66,7 @@ export class Home extends Component
                             </div>
                         </section>
                         <section>
-                            <a href="membership" class="image"><img src="images/DSC_0633.JPG" alt=""
+                            <a href="membership" class="image"><img src="images/DSC_0633.JPG" height="100%" width="110%" alt=""
                                 data-position="top center" /></a>
                             <div class="content">
                                 <div class="inner">

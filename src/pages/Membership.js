@@ -12,7 +12,7 @@ const Membership = () =>
                 <link rel="stylesheet" href="assets/css/main.css" />
                 <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
             </head>
-            <body class="is-preload">
+            <body>
 
                 <NavBar />
 
@@ -78,7 +78,7 @@ const Membership = () =>
 
                     <section id="leadership" class="wrapper style1 spotlights">
                         <section>
-                            <div href="#" class="image"><img src="images/DSC_1062.JPG" alt="" data-position="25% 25%" /></div>
+                            <div href="#" class="image"><img src="images/DSC_1062.JPG" height="100%" width="110%" alt="" data-position="25% 25%" /></div>
                             <div class="content">
                                 <div class="inner">
                                     <h2>Leadership Opportunities</h2>
@@ -94,7 +94,7 @@ const Membership = () =>
 
                     <section id="networking" class="wrapper style2 spotlights">
                         <section>
-                            <div href="#" class="image"><img src="images/DSC_0608.JPG" alt="" data-position="25% 25%" /></div>
+                            <div href="#" class="image"><img src="images/DSC_0608.JPG" height="100%" width="110%" alt="" data-position="25% 25%" /></div>
                             <div class="content">
                                 <div class="inner">
                                     <h2>Networking Opportunities</h2>

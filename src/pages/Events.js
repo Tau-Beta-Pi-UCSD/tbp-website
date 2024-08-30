@@ -11,7 +11,7 @@ export class Events extends Component
                     <title>TBP Events</title>
                 </head>
                 <body>
-                    <NavBar />
+                    <NavBar /> 
                     <div id="wrapper">
                         <EventList>
                             <h1 class='major' style={ { margin: 0 } }>Events and Activities</h1>
@@ -19,7 +19,7 @@ export class Events extends Component
                         </EventList>
 
 
-                        <section id="gaming" class="wrapper style1 spotlights">
+                        {/* <section id="gaming" class="wrapper style1 spotlights"> -no more minecraft :(
                             <section>
                                 <div href="initiation" class="image"><img src="images/Minecraft.jpg" alt=""
                                     data-position="center center" /></div>
@@ -36,7 +36,7 @@ export class Events extends Component
                                     </div>
                                 </div>
                             </section>
-                        </section>
+                        </section> */}
 
 
                         <footer id="footer" class="wrapper style2">
