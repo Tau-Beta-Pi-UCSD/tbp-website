@@ -151,16 +151,16 @@ const Initiation = () =>
                             data-position="center center" /></div> */}
                         <div class="content">
                             <div class="inner">
-                                {/* Updated for WI 24 */}
+                                {/* Updated for FA 24 */}
                                 <h2>T-Shirt Design Competition</h2>
                                 <p>
-                                    Open to all initiates, the T-Shirt Design Competition is a chance to show off your creativity and design skills. The winning design will be printed on the TBP shirts for the next initiation cycle. <b>The winner will also have their $115 initiation fee waived.</b> You can submit as many designs as you want, and the winner will be chosen by the TBP officers.
+                                    Open to all initiates, the T-Shirt Design Competition is a chance to show off your creativity and design skills. The winning design will be printed on the TBP shirts for the next initiation cycle. <b>The winner will also have their $125 initiation fee waived.</b> You can submit as many designs as you want, and the winner will be chosen by the TBP officers.
                                 </p>
                                 <p>
-                                    Designs are due <b>Friday May 3rd</b> for the Winter 2024 cycle.
+                                    Designs are due <b>Tuesday December 24th</b> for the Fall 2024 cycle.
                                 </p>
-                                <a href="https://drive.google.com/drive/u/1/folders/1VyQBEOfMQemYvhu1A0qaJj9Q77GwCeLh" class="button scrolly">Sample Designs</a>
-                                <a href="https://forms.gle/MxfqLcRmDQe32SbEA" class="button scrolly">Submission Link</a>
+                                <a href="https://drive.google.com/drive/folders/1BAxYmNOCEgjdDSYVBpV1HBcKz8HOoXVg?usp=sharing" class="button scrolly">Sample Designs</a>
+                                <a href="https://docs.google.com/forms/d/e/1FAIpQLScn3gsZ-ftekQG3taZ4QKIzI_NwAlc4He4gjNw9DOHMubic3w/viewform?usp=sf_link" class="button scrolly">Submission Link</a>
 
                             </div>
                         </div>
@@ -170,7 +170,7 @@ const Initiation = () =>
                     <div class="inner">
                         <h2>Candidate Packets</h2>
                         {/* Deadline updated for WI 24 */}
-                        <p>The following materials should be submitted to the "Candidate Packet Submission" google form at the bottom of the list. The submission deadline for the current Initiation Cycle is <b>February 28, 2024 at 5:00 PM.</b></p>
+                        <p>The following materials should be submitted to the "Candidate Packet Submission" google form at the bottom of the list. The submission deadline for the current Initiation Cycle is <b>November 18th, 202</b>. If any part of your candidate packet is late, you can still initiate. However, there is <b>1 additional event point required</b> for every component of the candidate packet that is submitted late. The late submission deadline is <b>November 27th, 2024</b>. </p>
                         <div class="table-wrapper">
                             <table>
                                 <tbody>
@@ -185,8 +185,8 @@ const Initiation = () =>
                                     </tr>
                                     <tr>
                                         <td>Two Faculty Ratings</td>
-                                        {/* Updated for WI 24 */}
-                                        <td><a href="https://forms.gle/MsTfMfxEbRLiSEK88" class="button scrolly">Form</a>
+                                        {/* Updated for FA 24 */}
+                                        <td><a href="https://forms.gle/TiewU1TRZVgbbbRg7" class="button scrolly">Form</a>
                                             </td>
                                     </tr>
                                     <tr>
@@ -201,8 +201,8 @@ const Initiation = () =>
                                     </tr>
                                     <tr>
                                         <td>Candidate Packet Submission</td>
-                                        {/* Updated for WI 24 */}
-                                        <td><a href="https://forms.gle/u4k9KdxzRvL13qDN6" class="button scrolly" Download>Google Form</a></td>
+                                        {/* Updated for FA 24 */}
+                                        <td><a href="https://forms.gle/n9MVEs2FYFwYuSnD6" class="button scrolly" Download>Google Form</a></td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -213,8 +213,8 @@ const Initiation = () =>
                 <section id="interview" class="wrapper style1">
                     <div class="inner">
                         <h2>Interviews</h2>
-                        <p>{/* Updated for WI 24 */}
-                            Interviews will be scheduled around <b> Week 1 or Week 2 of Spring Quarter</b>. These are primarily an opportunity for the Tau Beta Pi members to get to know you, but will also be used to assess your character and what you may bring to the organization. It is important that the information packet be turned in on time so that the members can learn about you before the interview. We will schedule interviews by e-mail during the weeks prior to the interviews. <b> Business attire is required. </b> Anyone who is not dressed properly will be asked to <b>leave and come back on a later date. </b>
+                        <p>{/* Updated for FA 24 */}
+                            Interviews will be scheduled around <b> Week 1 or Week 2 of Winter Quarter</b>. These are primarily an opportunity for the Tau Beta Pi members to get to know you, but will also be used to assess your character and what you may bring to the organization. It is important that the information packet be turned in on time so that the members can learn about you before the interview. We will schedule interviews by e-mail during the weeks prior to the interviews. <b> Business attire is required. </b> Anyone who is not dressed properly will be asked to <b>leave and come back on a later date. </b>
                         </p>
                     </div>
                 </section>
@@ -223,13 +223,13 @@ const Initiation = () =>
                     <div class="inner">
                         <h2>Initation ceremony</h2>
                         <p>
-                            <b>Initiation is mandatory!</b> Any eligible initiate unable to make it to initiation will not be able to initiate this term! A one-time lifetime membership fee of <b>$115</b> (made payable to "UCSD Tau Beta Pi") is due on the night of initiation. The entire fee is waived for the <b>initiate with the most points</b> and <b>the winner of the T-Shirt design competition!</b> 
+                            <b>Initiation is mandatory!</b> Any eligible initiate unable to make it to initiation will not be able to initiate this term! A one-time lifetime membership fee of <b>$125</b> (made payable to "UCSD Tau Beta Pi") is due on the night of initiation. The entire fee is waived for the <b>initiate with the most points</b> and <b>the winner of the T-Shirt design competition!</b> 
                         </p>    
                         <p>
                         Payments can be made through Venmo or cash/check. This fee covers chapter operating costs, dues to TBP national headquarters, cost of initiation materials, and the initiate banquet. <b> Business attire is required. </b> Anyone who is not dressed appropriately will not be able to take part in the ceremony.
 						</p>
-                            {/* Updated for WI 24 */}
-                        <p>The date of the initiation ceremony for the Winter cycle is <b>April 20, 2024.</b></p>
+                            {/* Updated for FA 24 */}
+                        <p>The date of the initiation ceremony for the Fall cycle is <b>January 25th, 2025.</b></p>
                     </div>
                 </section>
             </div>
