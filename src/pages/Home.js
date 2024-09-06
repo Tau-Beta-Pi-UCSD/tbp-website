@@ -101,7 +101,7 @@ export class Home extends Component
                                         <ul class="icons">
                                             <li><a href="https://www.facebook.com/tbpucsd/" class="fa-facebook"><span
                                                 class="label">Facebook</span></a></li>
-                                            <li><a href="https://www.linkedin.com/company/the-tau-beta-pi-association-inc./"
+                                            <li><a href="https://www.linkedin.com/company/tau-beta-pi-california-psi/"
                                                 class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
                                             <li><a href = "https://www.instagram.com/tbpucsd/" class="fa-instagram"><span class="label">Instagram</span></a></li>
                                         </ul>

@@ -170,7 +170,7 @@ const Initiation = () =>
                     <div class="inner">
                         <h2>Candidate Packets</h2>
                         {/* Deadline updated for WI 24 */}
-                        <p>The following materials should be submitted to the "Candidate Packet Submission" google form at the bottom of the list. The submission deadline for the current Initiation Cycle is <b>November 18th, 202</b>. If any part of your candidate packet is late, you can still initiate. However, there is <b>1 additional event point required</b> for every component of the candidate packet that is submitted late. The late submission deadline is <b>November 27th, 2024</b>. </p>
+                        <p>The following materials should be submitted to the "Candidate Packet Submission" google form at the bottom of the list. The submission deadline for the current Initiation Cycle is <b>November 18th, 2024</b>. If any part of your candidate packet is late, you can still initiate. However, there is <b>1 additional event point required</b> for every component of the candidate packet that is submitted late. The late submission deadline is <b>November 27th, 2024</b>. </p>
                         <div class="table-wrapper">
                             <table>
                                 <tbody>

@@ -141,7 +141,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_24_25/TBPNationalLogo.jpg" alt="" />
+                      <img src="images/headshots_24_25/radha.png" alt="" />
                       Radha Ambe <br />
                       <b>Social Chair</b> <br />
                       <a href="mailto:rambe@ucsd.edu">rambe@ucsd.edu</a>
@@ -150,7 +150,7 @@ const Community = () => {
 
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_24_25/TBPNationalLogo.jpg" alt="" />
+                      <img src="images/headshots_24_25/nickO.png" alt="" />
                       Nicholas Ormsby
                       <br />
                       <b>Technology Chair</b> <br />
@@ -208,7 +208,7 @@ const Community = () => {
 
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images//headshots_24_25/TBPNationalLogo.jpg" alt="" />
+                      <img src="images//headshots_24_25/xane.png" alt="" />
                       Alexander Hunter
                       <br/>
                       <b>MAE Representative</b> <br />
