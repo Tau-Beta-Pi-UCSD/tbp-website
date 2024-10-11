@@ -176,12 +176,12 @@ const Initiation = () =>
                                 <tbody>
                                     <tr>
                                         <td>Personal Statement</td>
-                                        <td><a href="resources/packet/Sample_Statement.pdf" class="button scrolly" Download>Sample 1</a>
-                                            <a href="resources/packet/Sample_Statement2.pdf" class="button scrolly" Download>Sample 2</a></td>
+                                        <td><a href="/resources/packet/Sample_Statement.pdf" class="button scrolly" Download>Sample 1</a>
+                                            <a href="/resources/packet/Sample_Statement2.pdf" class="button scrolly" Download>Sample 2</a></td>
                                     </tr>
                                     <tr>
                                         <td>Current Resumé</td>
-                                        <td><a href="resources/packet/Sample_Resume.pdf" class="button scrolly" Download>Sample Resume</a></td>
+                                        <td><a href="/resources/packet/Sample_Resume.pdf" class="button scrolly" Download>Sample Resume</a></td>
                                     </tr>
                                     <tr>
                                         <td>Two Faculty Ratings</td>
@@ -191,11 +191,11 @@ const Initiation = () =>
                                     </tr>
                                     <tr>
                                         <td>Academic Honesty Statement</td>
-                                        <td><a href="resources/packet/Academic_Honesty_Statement.pdf" class="button scrolly" Download>Download Form</a></td>
+                                        <td><a href="/resources/packet/Academic_Honesty_Statement.pdf" class="button scrolly" Download>Download Form</a></td>
                                     </tr>
                                     <tr>
                                         <td>Class Checklist</td>
-                                        <td><a href="resources/packet/Class_Checklist_Template.xlsx" class="button scrolly" Download>Download Template</a></td>
+                                        <td><a href="/resources/packet/Class_Checklist_Template.xlsx" class="button scrolly" Download>Download Template</a></td>
                                     </tr>
                                     <tr>
                                     </tr>

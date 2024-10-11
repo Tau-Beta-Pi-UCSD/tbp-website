@@ -227,7 +227,7 @@ const Community = () => {
                   
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images//headshots_24_25/TBPNationalLogo.jpg" alt="" />
+                      <img src="images//headshots_24_25/evan.png" alt="" />
                       Evan Yu
                       <br />
                       <b>NANO Representative</b> <br />
