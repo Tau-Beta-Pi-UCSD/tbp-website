@@ -98,7 +98,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_24_25/TBPNationalLogo.jpg" alt="" />
+                      <img src="images/headshots_24_25/aniruddh.jpg" alt="" />
                       Aniruddh Krovvidi
                       <br />
                       <b>VP External: Technology</b> <br />
@@ -133,7 +133,7 @@ const Community = () => {
                   </div>
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_24_25/TBPNationalLogo.jpg" alt="" />
+                      <img src="images/headshots_24_25/melina.jpg" alt="" />
                       Melina Dimitropoulou <br />
                       <b>Social Chair</b> <br />
                       <a href="mailto:mdimitropoulouka@ucsd.edu">mdimitropoulouka@ucsd.edu</a>
