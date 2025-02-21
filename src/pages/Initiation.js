@@ -61,7 +61,7 @@ const Initiation = () =>
                                     <tr>
                                         <td>2</td>
                                         <td>Academic/Professional Events</td>
-                                        <td>including a <b>mandatory resumé critique</b></td>
+                                        <td>including a <b>mandatory resumé critique or technical workshop</b></td>
                                     </tr>
                                     <tr>
                                         <td>2</td>
@@ -170,7 +170,7 @@ const Initiation = () =>
                     <div class="inner">
                         <h2>Candidate Packets</h2>
                         {/* Deadline updated for WI 24 */}
-                        <p>The following materials should be submitted to the "Candidate Packet Submission" google form at the bottom of the list. The submission deadline for the current Initiation Cycle is <b>November 18th, 2024</b>. If any part of your candidate packet is late, you can still initiate. However, there is <b>1 additional event point required</b> for every component of the candidate packet that is submitted late. The late submission deadline is <b>November 27th, 2024</b>. </p>
+                        <p>The following materials should be submitted to the "Candidate Packet Submission" google form at the bottom of the list. The submission deadline for the current Initiation Cycle is <b>February 24th, 2025 at 11:59 PM</b>. If any part of your candidate packet is late, you can still initiate. However, there is <b>1 additional event point required</b> for every component of the candidate packet that is submitted late. The late submission deadline is <b>March 3rd, 2025 at 11:59 PM</b>. </p>
                         <div class="table-wrapper">
                             <table>
                                 <tbody>
@@ -186,7 +186,7 @@ const Initiation = () =>
                                     <tr>
                                         <td>Two Faculty Ratings</td>
                                         {/* Updated for FA 24 */}
-                                        <td><a href="https://forms.gle/TiewU1TRZVgbbbRg7" class="button scrolly">Form</a>
+                                        <td><a href="https://forms.gle/sf9FzwtHMLu6rNht5" class="button scrolly">Form</a>
                                             </td>
                                     </tr>
                                     <tr>
@@ -202,7 +202,7 @@ const Initiation = () =>
                                     <tr>
                                         <td>Candidate Packet Submission</td>
                                         {/* Updated for FA 24 */}
-                                        <td><a href="https://forms.gle/n9MVEs2FYFwYuSnD6" class="button scrolly" Download>Google Form</a></td>
+                                        <td><a href="https://forms.gle/smTeza6uFZ4xiBGg8" class="button scrolly" Download>Google Form</a></td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -214,7 +214,7 @@ const Initiation = () =>
                     <div class="inner">
                         <h2>Interviews</h2>
                         <p>{/* Updated for FA 24 */}
-                            Interviews will be scheduled around <b> Week 1 or Week 2 of Winter Quarter</b>. These are primarily an opportunity for the Tau Beta Pi members to get to know you, but will also be used to assess your character and what you may bring to the organization. It is important that the information packet be turned in on time so that the members can learn about you before the interview. We will schedule interviews by e-mail during the weeks prior to the interviews. <b> Business attire is required. </b> Anyone who is not dressed properly will be asked to <b>leave and come back on a later date. </b>
+                            Interviews will be scheduled around <b> Week 1 or Week 2 of Spring Quarter</b>. These are primarily an opportunity for the Tau Beta Pi members to get to know you, but will also be used to assess your character and what you may bring to the organization. It is important that the information packet be turned in on time so that the members can learn about you before the interview. We will schedule interviews by e-mail during the weeks prior to the interviews. <b> Business attire is required. </b> Anyone who is not dressed properly will be asked to <b>leave and come back on a later date. </b>
                         </p>
                     </div>
                 </section>
@@ -229,7 +229,7 @@ const Initiation = () =>
                         Payments can be made through Venmo or cash/check. This fee covers chapter operating costs, dues to TBP national headquarters, cost of initiation materials, and the initiate banquet. <b> Business attire is required. </b> Anyone who is not dressed appropriately will not be able to take part in the ceremony.
 						</p>
                             {/* Updated for FA 24 */}
-                        <p>The date of the initiation ceremony for the Fall cycle is <b>January 25th, 2025.</b></p>
+                        <p>The date of the initiation ceremony for the Winter cycle is <b>April 19th, 2025.</b></p>
                     </div>
                 </section>
             </div>
