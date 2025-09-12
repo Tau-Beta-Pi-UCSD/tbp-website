@@ -24,7 +24,7 @@ const Community = () => {
                 <img src="images/DSC_0987.JPG" alt="" />
               </span>
               <p>
-                The UC San Diego chapter of TBP works to create and network a
+                The Tau Beta Pi chapter at UC San Diego works to create and network a
                 community of engineers across all departments and majors. Our
                 goal is to help our members grow into well-rounded engineers who
                 honor their Alma Mater.

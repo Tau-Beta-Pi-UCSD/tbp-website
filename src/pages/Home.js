@@ -35,7 +35,7 @@ export class Home extends Component
                             <div class="content">
                                 <div class="inner">
                                     <h2>Who We Are</h2>
-                                    <p>We are the UC San Diego chapter of Tau Beta Pi, one of the top three honor societies in the
+                                    <p>We are the Tau Beta Pi chapter at UC San Diego, one of the top three honor societies in the
                                     nation.
                                     Our Officers keep our chapter active and help promote the future growth of our chapter by
                                     nurturing our integrity, character, and charitability through hosting events.

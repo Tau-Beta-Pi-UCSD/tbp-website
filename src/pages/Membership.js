@@ -83,7 +83,7 @@ const Membership = () =>
                                 <div class="inner">
                                     <h2>Leadership Opportunities</h2>
                                     <p>
-                                        Members have the opportunity to apply to the 20 officer positions available at the UC San Diego CA Psi chapter of Tau Beta Pi. This is an excellent opportunity to become more involved in the engineering community and encourage professional development. Officers work extensively with other engineering orgs throughout the year, in addition to external involvement with TBP headquarters.
+                                        Members have the opportunity to apply to the 20 officer positions available at the Tau Beta Pi Osi chapter at UC San Diego. This is an excellent opportunity to become more involved in the engineering community and encourage professional development. Officers work extensively with other engineering orgs throughout the year, in addition to external involvement with TBP headquarters.
 
                                         We encourage members interested in becoming officers to become house leaders, where they will be involved in the initiation process and help encourage the next generation of Tau Beta Pi members. In addition, please feel free to contact any of the officers if you have interest in joining a committee.
 									</p>
@@ -99,7 +99,7 @@ const Membership = () =>
                                 <div class="inner">
                                     <h2>Networking Opportunities</h2>
                                     <p>
-                                        TBP members have the opportunity to connect with other members across the country. In addition to alumni and industry mixers that the UC San Diego CA Psi offers throughout the year, members should feel free to connect on these groups:
+                                        TBP members have the opportunity to connect with other members across the country. In addition to alumni and industry mixers that the UC San Diego CA Psi offered throughout the year, members should feel free to connect on these groups:
 									</p>
                                     <ul class="actions">
                                         <li><a href="https://www.linkedin.com/company/the-tau-beta-pi-association-inc./about/" class="button">TBP LinkedIn</a></li>
