@@ -16,7 +16,7 @@ export class Home extends Component
                     <section id="intro" class="wrapper style1 fullscreen fade-up">
                         <div class="inner">
                             <h1>Tau Beta Pi, California Psi</h1>
-                            <h3>The Premier Engineering Honor Society at UCSD</h3>
+                            <h3>The Premier Engineering Honor Society at UC San Diego</h3>
                             <p>Most prominent engineering honor society since 1994. Focusing on serving our members and the
                             public to promote integrity and excellence in engineering. </p>
                             <ul class="actions">

@@ -20,9 +20,9 @@ const Initiation = () =>
                 <section id="main" class="wrapper style2">
                     <div class="inner">
                         <h1 class="major">Initiation</h1>
-                        <p>The UC San Diego Chapter of Tau Beta Pi conducts two Initiations per academic year. Invitations to eligible students are mailed out during Weeks 1 and 2 of the Fall and Winter academic quarters to students in the <b>top 1/8th of the Junior class</b> and <b>top 1/5th of the Senior class</b>. For students to have Junior Class standing, they must have completed 90-135 units. To qualify for Senior Class standing, students must have completed over 135 units. In addition, students must have attended UCSD for at least one full academic year.</p>
+                        <p>The UC San Diego Chapter of Tau Beta Pi conducts two Initiations per academic year. Invitations to eligible students are mailed out during Weeks 1 and 2 of the Fall and Winter academic quarters to students in the <b>top 1/8th of the Junior class</b> and <b>top 1/5th of the Senior class</b>. For students to have Junior Class standing, they must have completed 90-135 units. To qualify for Senior Class standing, students must have completed over 135 units. In addition, students must have attended UC San Diego for at least one full academic year.</p>
                         <p>After invitations are sent out, info sessions are held for the the invited students to inform them about the initiation process to become a member. During the Initiation Cycle (approximately a 10 week period), initiates will distinguish themselves through their academic excellence and, more significantly, outstanding character. To demonstrate these qualities, initiates will submit a candidate packet that will reflect these qualities, and participate in events with Tau Beta Pi members and officers to gain a sense of the TBP community. After initiate packets are reviewed, initiates will undergo individual interviews conducted by an officer. At this point, initiates who exemplify the qualities of Tau Beta Pi will be invited to the Initiation Ceremony to become Tau Beta Pi members.</p>
-                        <p><strong>Once you initiate, you are a lifetime member.</strong> If you continue to come to UCSD's Tau Beta Pi events and retain active membership, you will be eligible for chapter benefits.</p>
+                        <p><strong>Once you initiate, you are a lifetime member.</strong> If you continue to come to UC San Diego's Tau Beta Pi events and retain active membership, you will be eligible for chapter benefits.</p>
                         <span class="image fit"><img src="images/DSC_0018.JPG" alt="" /></span>
 
                     </div>
@@ -223,7 +223,7 @@ const Initiation = () =>
                     <div class="inner">
                         <h2>Initation ceremony</h2>
                         <p>
-                            <b>Initiation is mandatory!</b> Any eligible initiate unable to make it to initiation will not be able to initiate this term! A one-time lifetime membership fee of <b>$125</b> (made payable to "UCSD Tau Beta Pi") is due on the night of initiation. The entire fee is waived for the <b>initiate with the most points</b> and <b>the winner of the T-Shirt design competition!</b> 
+                            <b>Initiation is mandatory!</b> Any eligible initiate unable to make it to initiation will not be able to initiate this term! A one-time lifetime membership fee of <b>$125</b> (made payable to "UC San Diego Tau Beta Pi") is due on the night of initiation. The entire fee is waived for the <b>initiate with the most points</b> and <b>the winner of the T-Shirt design competition!</b> 
                         </p>    
                         <p>
                         Payments can be made through Venmo or cash/check. This fee covers chapter operating costs, dues to TBP national headquarters, cost of initiation materials, and the initiate banquet. <b> Business attire is required. </b> Anyone who is not dressed appropriately will not be able to take part in the ceremony.
