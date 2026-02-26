@@ -30,7 +30,7 @@ export class Home extends Component
 
                     <section id="who" class="wrapper style2 spotlights">
                         <section>
-                            <div class="image"><img src="images/DSC_0033.JPG" height="100%" width="110%" alt="" data-position="25% 25%" />
+                            <div class="image"><img src="images/photos_25_26/IMG_7811.jpg" height="100%" width="110%" alt="" data-position="25% 25%" />
                             </div>
                             <div class="content">
                                 <div class="inner">
