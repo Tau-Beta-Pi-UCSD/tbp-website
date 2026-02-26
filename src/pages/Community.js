@@ -19,12 +19,12 @@ const Community = () => {
         <div id="wrapper">
           <section class="wrapper style2">
             <div class="inner">
-              <h1 class="major">Tau Beta Pi @ UCSD</h1>
+              <h1 class="major">Tau Beta Pi @ UC San Diego</h1>
               <span class="image fit">
                 <img src="images/DSC_0987.JPG" alt="" />
               </span>
               <p>
-                The UC San Diego chapter of TBP works to create and network a
+                The Tau Beta Pi chapter at UC San Diego works to create and network a
                 community of engineers across all departments and majors. Our
                 goal is to help our members grow into well-rounded engineers who
                 honor their Alma Mater.
@@ -44,7 +44,7 @@ const Community = () => {
                   <p>
                     Tau Beta Pi is the premier engineering honor society in the
                     United States and one of the top three honor societies in
-                    the nation. Tau Beta Pi @ UCSD is just one of many Tau Beta
+                    the nation. Tau Beta Pi @ UC San Diego is just one of many Tau Beta
                     Pi chapters across the nation. Our Officers keep our chapter
                     active and help promote the future growth of our chapter by
                     nurturing our integrity, character, and charitability
