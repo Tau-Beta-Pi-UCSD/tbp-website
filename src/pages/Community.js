@@ -106,6 +106,15 @@ const Community = () => {
                       <a href="mailto:mih024@ucsd.edu">mih024@ucsd.edu</a>
                     </span>
                   </div>
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_25_26/Annie_Yang.JPG" alt="" />
+                      Annie Yang
+                      <br />
+                      <b>VP External Intern</b> <br />
+                      <a href="mailto:any015@ucsd.edu">any015@ucsd.edu</a>
+                    </span>
+                  </div>
 
                   <div class="col-4">
                     <span class="image fit">
@@ -123,7 +132,15 @@ const Community = () => {
                       <a href="mailto:makohl@ucsd.edu">makohl@ucsd.edu</a>
                     </span>
                   </div>  
-                  
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_25_26/Tom_Klappenecker.jpg" alt="" />
+                      Tom Klappenecker
+                      <br />
+                      <b>VP Internal Intern</b> <br />
+                      <a href="mailto:tklappenecker@ucsd.edu">tklappenecker@ucsd.edu</a>
+                    </span>
+                  </div>
                   <div class="col-4">
                     <span class="image fit">
                       <img src="images/headshots_25_26/iris hochwalt.jpg" alt="" />
@@ -151,7 +168,15 @@ const Community = () => {
                       <a href="mailto:jip047@ucsd.edu">jip047@ucsd.edu</a>
                     </span>
                   </div>
-
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_25_26/Mackenzie_Funk.jpg" alt="" />
+                      Mackenzie Funk
+                      <br />
+                      <b>Social Chair Intern</b> <br />
+                      <a href="mailto:mafunk@ucsd.edu">mafunk@ucsd.edu</a>
+                    </span>
+                  </div>
                   <div class="col-4">
                     <span class="image fit">
                       <img src="images/headshots_24_25/nickO.png" alt="" />
@@ -161,10 +186,18 @@ const Community = () => {
                       <a href="mailto:nlormsby@ucsd.edu">nlormsby@ucsd.edu</a>
                     </span>
                   </div>
-                  
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_25_26/Malia Lewton.png" alt="" />
+                      <img src="images/headshots_25_26/Natasha_Liu.jpg" alt="" />
+                      Natasha Liu
+                      <br />
+                      <b>Technology Chair Intern</b> <br />
+                      <a href="mailto:nal022@ucsd.edu">nal022@ucsd.edu</a>
+                    </span>
+                  </div>
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_25_26/Malia_Lewton.JPG" alt="" />
                       Malia Lewton
                       <br />
                       <b>Outreach and Service Chair</b> <br />
@@ -215,6 +248,15 @@ const Community = () => {
                       <br />
                       <b>MAE Representative</b> <br />
                       <a href="mailto:slindauer@ucsd.edu">slindauer@ucsd.edu</a>
+                    </span>
+                  </div>
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_25_26/Griffin_Harper.jpg" alt="" />
+                      Griffin Harper
+                      <br />
+                      <b>MAE Representative Intern</b> <br />
+                      <a href="mailto:grharper@ucsd.edu">grharper@ucsd.edu</a>
                     </span>
                   </div>
                   <div class="col-4">
