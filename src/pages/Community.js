@@ -70,159 +70,107 @@ const Community = () => {
               <h1>Meet the Team</h1>
               <div class="box alt">
                 <div class="row gtr-uniform">
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_25_26/max vroemen.png" alt="" />
-                      Max Vroemen
-                      <br />
-                      <b>President</b> <br />
-                      <a href="mailto:mvroemen@ucsd.edu">mvroemen@ucsd.edu</a>
-                    </span>
-                  </div>
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_25_26/Praveen_picture.jpg" alt="" />
-                      Praveen Swaminathan <br />
-                      <b>President</b> <br />
-                      <a href="mailto:pswaminathan@ucsd.edu">pswaminathan@ucsd.edu</a>
-                    </span>
-                  </div>
-
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_24_25/nick.jpg" alt="" />
-                      Nick Monell
-                      <br />
-                      <b>VP External: Engineering</b> <br />
-                      <a href="mailto:nmonell@ucsd.edu">nmonell@ucsd.edu</a>
-                    </span>
-                  </div>
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_25_26/michael he.PNG" alt="" />
-                      Michael He
-                      <br />
-                      <b>VP External: Technology</b> <br />
-                      <a href="mailto:mih024@ucsd.edu">mih024@ucsd.edu</a>
-                    </span>
-                  </div>
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_25_26/Annie_Yang.JPG" alt="" />
-                      Annie Yang
-                      <br />
-                      <b>VP External Intern</b> <br />
-                      <a href="mailto:any015@ucsd.edu">any015@ucsd.edu</a>
-                    </span>
-                  </div>
-
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_25_26/Alex Lorang.jpg" alt="" />
-                      Alex Lorang <br />
-                      <b>VP Internal</b> <br />
-                      <a href="mailto:alorang@ucsd.edu">alorang@ucsd.edu</a>
-                    </span>
-                  </div>
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_25_26/MaylingKohl.JPG" alt="" />
-                      Mayling Kohl <br />
-                      <b>VP Internal</b> <br />
-                      <a href="mailto:makohl@ucsd.edu">makohl@ucsd.edu</a>
-                    </span>
-                  </div>  
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_25_26/Tom_Klappenecker.jpg" alt="" />
-                      Tom Klappenecker
-                      <br />
-                      <b>VP Internal Intern</b> <br />
-                      <a href="mailto:tklappenecker@ucsd.edu">tklappenecker@ucsd.edu</a>
-                    </span>
-                  </div>
-                  <div class="col-4">
+                  
+                   <div class="col-4">
                     <span class="image fit">
                       <img src="images/headshots_25_26/iris hochwalt.jpg" alt="" />
                       Iris Hochwalt
                       <br />
-                      <b>VP Finance</b> <br />
+                      <b>President</b> <br />
                       <a href="mailto:ihochwalt@ucsd.edu">ihochwalt@ucsd.edu</a>
                     </span>
                   </div>
-                
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_25_26/Connie Tran.jpg" alt="" />
-                      Connie Tran <br />
-                      <b>Secretary/Historian</b> <br />
-                      <a href="mailto:cut002@ucsd.edu">cut002@ucsd.edu</a>
-                    </span>
-                  </div>
-
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_25_26/Jin-Ho Park.jpg" alt="" />
-                      Jin-Ho Park <br />
-                      <b>Social Chair</b> <br />
-                      <a href="mailto:jip047@ucsd.edu">jip047@ucsd.edu</a>
-                    </span>
-                  </div>
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_25_26/Mackenzie_Funk.jpg" alt="" />
-                      Mackenzie Funk
-                      <br />
-                      <b>Social Chair Intern</b> <br />
-                      <a href="mailto:mafunk@ucsd.edu">mafunk@ucsd.edu</a>
-                    </span>
-                  </div>
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_24_25/nickO.png" alt="" />
-                      Nicholas Ormsby
-                      <br />
-                      <b>Technology Chair</b> <br />
-                      <a href="mailto:nlormsby@ucsd.edu">nlormsby@ucsd.edu</a>
-                    </span>
-                  </div>
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_25_26/Natasha_Liu.jpg" alt="" />
-                      Natasha Liu
-                      <br />
-                      <b>Technology Chair Intern</b> <br />
-                      <a href="mailto:nal022@ucsd.edu">nal022@ucsd.edu</a>
-                    </span>
-                  </div>
+                  
                   <div class="col-4">
                     <span class="image fit">
                       <img src="images/headshots_25_26/Malia_Lewton.JPG" alt="" />
                       Malia Lewton
                       <br />
-                      <b>Outreach and Service Chair</b> <br />
+                      <b>President</b> <br />
                       <a href="mailto:mlewton@ucsd.edu">mlewton@ucsd.edu</a>
                     </span>
                   </div>
                   
                   <div class="col-4">
                     <span class="image fit">
+                      <img src="images/headshots_26_27/Annie_Yang.JPG" alt="" />
+                      Annie Yang
+                      <br />
+                      <b>VP External</b> <br />
+                      <a href="mailto:any015@ucsd.edu">any015@ucsd.edu</a>
+                    </span>
+                  </div>
+
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_25_26/Tom_Klappenecker.jpg" alt="" />
+                      Tom Klappenecker
+                      <br />
+                      <b>VP Internal</b> <br />
+                      <a href="mailto:tklappenecker@ucsd.edu">tklappenecker@ucsd.edu</a>
+                    </span>
+                  </div>
+                  
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_26_27/Griffin_Harper.jpeg" alt="" />
+                      Griffin Harper
+                      <br />
+                      <b>VP Finance</b> <br />
+                      <a href="mailto:grharper@ucsd.edu">grharper@ucsd.edu</a>
+                    </span>
+                  </div>
+                  
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_25_26/michael he.PNG" alt="" />
+                      Michael He
+                      <br />
+                      <b>Secretary</b> <br />
+                      <a href="mailto:mih024@ucsd.edu">mih024@ucsd.edu</a>
+                    </span>
+                  </div>
+                   
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_25_26/Mackenzie_Funk.jpg" alt="" />
+                      Mackenzie Funk
+                      <br />
+                      <b>Social Chair</b> <br />
+                      <a href="mailto:mafunk@ucsd.edu">mafunk@ucsd.edu</a>
+                    </span>
+                  </div>
+
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_25_26/Natasha_Liu.jpg" alt="" />
+                      Natasha Liu
+                      <br />
+                      <b>Technology Chair</b> <br />
+                      <a href="mailto:nal022@ucsd.edu">nal022@ucsd.edu</a>
+                    </span>
+                  </div>
+                                    
+                  <div class="col-4">
+                    <span class="image fit">
                       <img src="images/headshots_25_26/Jonathan Rao.jpg" alt="" />
                       Jonathan Rao
                       <br />
-                      <b>ECE Representative</b> <br />
+                      <b>Historian</b> <br />
                       <a href="mailto:jorao@ucsd.edu">jorao@ucsd.edu</a>
                     </span>
                   </div>
+
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_25_26/emma sun.jpg" alt="" />
-                      Emma Sun
-                      <br />
-                      <b>BENG Representative</b> <br />
-                      <a href="mailto:e8sun@ucsd.edu">e8sun@ucsd.edu</a>
+                      <img src="images/headshots_26_27/Neal_Jian.jpg" alt="" />
+                      Neal Jian
+                      <br/>
+                      <b>ECE Representative</b> <br />
+                      <a href="mailto:nijian@ucsd.edu">nijian@ucsd.edu</a>
                     </span>
                   </div>
+
                   <div class="col-4">
                     <span class="image fit">
                       <img src="images/headshots_25_26/Megan Chen.png" alt="" />
@@ -232,42 +180,7 @@ const Community = () => {
                       <a href="mailto:mec018@ucsd.edu">mec018@ucsd.edu</a>
                     </span>
                   </div>
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_25_26/benjamin ng.jpg" alt="" />
-                      Benjamin Ng
-                      <br/>
-                      <b>CSE Representative</b> <br />
-                      <a href="mailto:bmng@uccsd.edu">bmng@uccsd.edu</a>
-                    </span>
-                  </div>
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_25_26/summer lindauer.jpg" alt="" />
-                      Summer Lindauer
-                      <br />
-                      <b>MAE Representative</b> <br />
-                      <a href="mailto:slindauer@ucsd.edu">slindauer@ucsd.edu</a>
-                    </span>
-                  </div>
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_25_26/Griffin_Harper.jpg" alt="" />
-                      Griffin Harper
-                      <br />
-                      <b>MAE Representative Intern</b> <br />
-                      <a href="mailto:grharper@ucsd.edu">grharper@ucsd.edu</a>
-                    </span>
-                  </div>
-                  <div class="col-4">
-                    <span class="image fit">
-                      <img src="images/headshots_25_26/Matthew Brown.jpg" alt="" />
-                      Matthew Brown
-                      <br />
-                      <b>NANO Representative</b> <br />
-                      <a href="mailto:mab006@ucsd.edu">mab006@ucsd.edu</a>
-                    </span>
-                  </div>
+
                 </div>
               </div>
             </div>
