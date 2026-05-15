@@ -181,6 +181,26 @@ const Community = () => {
                     </span>
                   </div>
 
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_26_27/Rahul_Punji.jpg" alt="" />
+                      Rahul Punji
+                      <br/>
+                      <b>CSE Representative</b> <br />
+                      <a href="mailto:rpunji@ucsd.edu">rpunji@ucsd.edu</a>
+                    </span>
+                  </div>
+
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_26_27/Nicholas_Lord.JPG" alt="" />
+                      Nicholas Lord
+                      <br/>
+                      <b>NANO Representative</b> <br />
+                      <a href="mailto:nilord@ucsd.edu">nilord@ucsd.edu</a>
+                    </span>
+                  </div>
+                  
                 </div>
               </div>
             </div>
