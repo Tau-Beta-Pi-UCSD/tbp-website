@@ -103,6 +103,16 @@ const Community = () => {
 
                   <div class="col-4">
                     <span class="image fit">
+                      <img src="images/headshots_26_27/Rosslyn_Farnan.JPG" alt="" />
+                      Rosslyn Farnan
+                      <br />
+                      <b>VP External</b> <br />
+                      <a href="mailto:rofarnan@ucsd.edu">rofarnan@ucsd.edu</a>
+                    </span>
+                  </div>
+
+                  <div class="col-4">
+                    <span class="image fit">
                       <img src="images/headshots_25_26/Tom_Klappenecker.jpg" alt="" />
                       Tom Klappenecker
                       <br />
@@ -133,7 +143,7 @@ const Community = () => {
                    
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_25_26/Mackenzie_Funk.jpg" alt="" />
+                      <img src="images/headshots_26_27/Mackenzie_Funk.jpeg" alt="" />
                       Mackenzie Funk
                       <br />
                       <b>Social Chair</b> <br />
@@ -150,7 +160,17 @@ const Community = () => {
                       <a href="mailto:nal022@ucsd.edu">nal022@ucsd.edu</a>
                     </span>
                   </div>
-                                    
+
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_26_27/Steven_Li.JPG" alt="" />
+                      Steven Li
+                      <br />
+                      <b>Outreach & Service Chair</b> <br />
+                      <a href="mailto:stl027@ucsd.edu">stl027@ucsd.edu</a>
+                    </span>
+                  </div>
+
                   <div class="col-4">
                     <span class="image fit">
                       <img src="images/headshots_25_26/Jonathan Rao.jpg" alt="" />
@@ -183,11 +203,31 @@ const Community = () => {
 
                   <div class="col-4">
                     <span class="image fit">
+                      <img src="images/headshots_26_27/Phuong_Dinh.jpeg" alt="" />
+                      Sophia Dinh
+                      <br/>
+                      <b>CSE Representative</b> <br />
+                      <a href="mailto:phdinh@ucsd.edu">phdinh@ucsd.edu</a>
+                    </span>
+                  </div>
+
+                  <div class="col-4">
+                    <span class="image fit">
                       <img src="images/headshots_26_27/Rahul_Punji.jpg" alt="" />
                       Rahul Punji
                       <br/>
                       <b>CSE Representative</b> <br />
                       <a href="mailto:rpunji@ucsd.edu">rpunji@ucsd.edu</a>
+                    </span>
+                  </div>
+
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_26_27/Sameer_Patel.jpg" alt="" />
+                      Sameer Patel
+                      <br/>
+                      <b>MAE Representative</b> <br />
+                      <a href="mailto:srp009@ucsd.edu">srp009@ucsd.edu</a>
                     </span>
                   </div>
 
