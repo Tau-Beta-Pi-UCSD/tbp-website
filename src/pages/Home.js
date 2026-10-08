@@ -87,11 +87,11 @@ export class Home extends Component
                         <div class="inner">
                             <h2>Contact Us</h2>
                             <ul class="actions">
-                                <li><a href="mailto:tbp@ucsd.edu?Subject=General%20Questions" target="_top" class="button">General
+                                <li><a href="mailto:taubetapi.at.ucsandiego@gmail.com?Subject=General%20Questions" target="_top" class="button">General
 							Questions</a></li>
-                                <li><a href="mailto:tbp@ucsd.edu?Subject=Company%20Positions" target="_top" class="button">Advertise
+                                <li><a href="mailto:taubetapi.at.ucsandiego@gmail.com?Subject=Company%20Positions" target="_top" class="button">Advertise
 							Company Positions</a></li>
-                                <li><a href="mailto:tbp@ucsd.edu?Subject=Company%20info" target="_top" class="button">Company
+                                <li><a href="mailto:taubetapi.at.ucsandiego@gmail.com?Subject=Company%20info" target="_top" class="button">Company
 							Information Session</a></li>
                             </ul>
                             <section>
@@ -103,7 +103,7 @@ export class Home extends Component
                                                 class="label">Facebook</span></a></li>
                                             <li><a href="https://www.linkedin.com/company/tau-beta-pi-california-psi/"
                                                 class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
-                                            <li><a href = "https://www.instagram.com/tbpucsd/" class="fa-instagram"><span class="label">Instagram</span></a></li>
+                                            <li><a href = "https://www.instagram.com/tbp.atucsd/" class="fa-instagram"><span class="label">Instagram</span></a></li>
                                         </ul>
                                     </li>
                                 </ul>

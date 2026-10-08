@@ -140,7 +140,17 @@ const Community = () => {
                       <a href="mailto:mih024@ucsd.edu">mih024@ucsd.edu</a>
                     </span>
                   </div>
-                   
+                  
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_26_27/Connor_Lin.jpg" alt="" />
+                      Connor Lin
+                      <br />
+                      <b>Social Chair</b> <br />
+                      <a href="mailto:Cal082@ucsd.edu">Cal082@ucsd.edu</a>
+                    </span>
+                  </div>
+
                   <div class="col-4">
                     <span class="image fit">
                       <img src="images/headshots_26_27/Mackenzie_Funk.jpeg" alt="" />
@@ -173,7 +183,7 @@ const Community = () => {
 
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_25_26/Jonathan Rao.jpg" alt="" />
+                      <img src="images/headshots_26_27/Jonathan_Rao.jpg" alt="" />
                       Jonathan Rao
                       <br />
                       <b>Historian</b> <br />
@@ -188,6 +198,16 @@ const Community = () => {
                       <br/>
                       <b>ECE Representative</b> <br />
                       <a href="mailto:nijian@ucsd.edu">nijian@ucsd.edu</a>
+                    </span>
+                  </div>
+
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_26_27/Chloe_Hurteau.jpg" alt="" />
+                      Chloe Hurteau
+                      <br/>
+                      <b>BENG Representative</b> <br />
+                      <a href="mailto:churteau@ucsd.edu">churteau@ucsd.edu</a>
                     </span>
                   </div>
 

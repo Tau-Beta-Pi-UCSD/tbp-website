@@ -33,7 +33,7 @@ const Initiation = () =>
                         <h2>Points Requirement</h2>
                         <p>We require eligible initiates to either use our <a href="/points">point tracking app</a> over the course of their Initiation Cycle. A complete list of point requirements for <a href='#g-points'>graduate</a> and <a href='#u-points'>undergraduate</a> students can be found in the section after this one.</p>
 
-                        <p>Points are usually given at a rate of 1 point per hour at each event, and require a sign off from a TBP officer as witness of your attendance.</p>
+                        <p>With the exception of <b>Social</b> events which award 1 point per event, points are usually given at a rate of 1 point per hour and require a sign off from a TBP officer as witness of your attendance.</p>
                         {/* I don't think we need this anymore. I don't even know what year this guy was from - Vincent
                         <p>If you do not use the app, the point verification form must be turned in on the day of Initiation. While 10 - 15 points might seem like a lot, last cycle initiate Nicholas Limit obtained <b>over 50 points!</b></p>*/}
                         <a href="/points" class="button scrolly" >Points App</a>
@@ -54,9 +54,9 @@ const Initiation = () =>
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td>2</td>
+                                        <td>3</td>
                                         <td>Social Events</td>
-                                        <td>-</td>
+                                        <td>including the mandatory <b>All-Initiate Competition</b> currently slated to be held <b>Friday, November 6th (Week 6)</b></td>
                                     </tr>
                                     <tr>
                                         <td>2</td>
@@ -74,7 +74,7 @@ const Initiation = () =>
                                         <td>-</td>
                                     </tr>
                                     <tr>
-                                        <td>3</td>
+                                        <td>2</td>
                                         <td>Any Events/Flex Points</td>
                                         <td>including <b>family</b> events</td>
                                     </tr>
@@ -98,14 +98,14 @@ const Initiation = () =>
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td>1</td>
+                                        <td>2</td>
                                         <td>Social Event</td>
-                                        <td>-</td>
+                                        <td>including the mandatory <b>All-Initiate Competition</b> currently slated to be held <b>Friday, November 6th (Week 6)</b></td>
                                     </tr>
                                     <tr>
                                         <td>2</td>
                                         <td>Academic/Professional Events</td>
-                                        <td>including a <b>mandatory resumé critique</b></td>
+                                        <td>including a <b>mandatory resumé critique or technical workshop</b></td>
                                     </tr>
                                     <tr>
                                         <td>2</td>  
@@ -118,7 +118,7 @@ const Initiation = () =>
                                         <td>-</td>
                                     </tr>
                                     <tr>
-                                        <td>2</td>
+                                        <td>1</td>
                                         <td>Any Events/Flex Points</td>
                                         <td>including <b>family</b> events</td>
                                     </tr>
@@ -164,8 +164,8 @@ const Initiation = () =>
                                     You can submit as many designs as you want, and the winner will be chosen by the TBP officers.
                                 </p>
                                 <p>
-                                    {/* Updated for WI 26 */}
-                                    Designs are due <b>sometime</b> for the Winter 2026 cycle.
+                                    {/* Updated for FA 26 */}
+                                    Designs are due <b>TBD</b> for the Fall 2026 cycle.
                                 </p>
                                 <a href="https://drive.google.com/drive/folders/1BAxYmNOCEgjdDSYVBpV1HBcKz8HOoXVg?usp=sharing" class="button scrolly">Sample Designs</a>
                                 <a href="https://docs.google.com/forms/d/e/1FAIpQLScn3gsZ-ftekQG3taZ4QKIzI_NwAlc4He4gjNw9DOHMubic3w/viewform?usp=sf_link" class="button scrolly">Submission Link</a>
@@ -177,12 +177,12 @@ const Initiation = () =>
                 <section id="packet" class="wrapper style2">
                     <div class="inner">
                         <h2>Candidate Packets</h2>
-                        {/* Deadline updated for WI 26 */}
+                        {/* Deadline updated for FA 26 */}
                         <p>
                             The following materials should be submitted to the "Candidate Packet Submission" google form at the bottom of the list. 
-                            The submission deadline for the current Initiation Cycle is <b>Wednesday February 25th, 2026 at 11:59 PM</b>. 
-                            If any part of your candidate packet is late, you can still initiate. However, there is <b>1 additional event point required</b> 
-                            for every component of the candidate packet that is submitted late. The late submission deadline is <b>Wednesday March 4th, 2026 at 11:59 PM</b>. </p>
+                            The submission deadline for the current Initiation Cycle is <b>Thursday, November 19th, 2026 at 11:59 PM (Week 8)</b>. 
+                            If any part of your candidate packet is late, you can still initiate. However, there is <b>1 additional academic or service event point required</b> 
+                            for every component of the candidate packet that is submitted late. The late submission deadline is <b>Thursday, December 3rd, 2026 at 11:59 PM (Week 10)</b>. </p>
                         <div class="table-wrapper">
                             <table>
                                 <tbody>
@@ -225,15 +225,15 @@ const Initiation = () =>
                 <section id="interview" class="wrapper style1">
                     <div class="inner">
                         <h2>Interviews</h2>
-                        <p>{/* Updated for WI 26 */}
-                            Interviews will be scheduled around <b> Week 1 or Week 2 of Spring Quarter</b>. These are primarily an opportunity for the Tau Beta Pi members to get to know you, but will also be used to assess your character and what you may bring to the organization. It is important that the information packet be turned in on time so that the members can learn about you before the interview. We will schedule interviews by e-mail during the weeks prior to the interviews. <b> Business attire is required. </b> Anyone who is not dressed properly will be asked to <b>leave and come back on a later date. </b>
+                        <p>{/* Updated for FA 26 */}
+                            Interviews will be scheduled around <b> Week 2 or Week 3 of Winter Quarter</b>. These are primarily an opportunity for the Tau Beta Pi members to get to know you, but will also be used to assess your character and what you may bring to the organization. It is important that the information packet be turned in on time so that the members can learn about you before the interview. We will schedule interviews by e-mail during the weeks prior to the interviews. <b>Business professional attire</b>, as well as <b>completion of Coffee with an Officer beforehand</b>, are <b>required.</b> Anyone who is not dressed properly will be asked to <b>leave and come back on a later date. </b>
                         </p>
                     </div>
                 </section>
                 <section id="ceremony" class="wrapper style2">
 
                     <div class="inner">
-                        <h2>Initation ceremony</h2>
+                        <h2>Initation Ceremony</h2>
                         <p>
                             <b>Initiation is mandatory!</b> Any eligible initiate unable to make it to initiation will not be able to initiate this term! A one-time lifetime membership fee of <b>$125</b> (made payable to "UC San Diego Tau Beta Pi") is due on the night of initiation. The entire fee is waived for the <b>initiate with the most points</b> and <b>the winner of the T-Shirt design competition!</b> 
                         </p>    
@@ -241,7 +241,7 @@ const Initiation = () =>
                         Payments can be made through Venmo or cash/check. This fee covers chapter operating costs, dues to TBP national headquarters, cost of initiation materials, and the initiate banquet. <b> Business attire is required. </b> Anyone who is not dressed appropriately will not be able to take part in the ceremony.
 						</p>
                             {/* Updated for WI 26 */}
-                        <p>The date of the initiation ceremony for the Winter cycle is <b>Saturday April 25th, 5-9PM.</b></p>
+                        <p>The date of the initiation ceremony for the Fall 2026 cycle is <b>TBD.</b></p>
                     </div>
                 </section>
             </div>
