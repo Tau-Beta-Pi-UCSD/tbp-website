@@ -181,7 +181,7 @@ const Initiation = () =>
                         <p>
                             The following materials should be submitted to the "Candidate Packet Submission" google form at the bottom of the list. 
                             The submission deadline for the current Initiation Cycle is <b>Thursday, November 19th, 2026 at 11:59 PM (Week 8)</b>. 
-                            If any part of your candidate packet is late, you can still initiate. However, there is <b>1 additional academic or service event point required</b> 
+                            If any part of your candidate packet is late, you can still initiate. However, there is <b>1 additional academic or service event point required </b>
                             for every component of the candidate packet that is submitted late. The late submission deadline is <b>Thursday, December 3rd, 2026 at 11:59 PM (Week 10)</b>. </p>
                         <div class="table-wrapper">
                             <table>
