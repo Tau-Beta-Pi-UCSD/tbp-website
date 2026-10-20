@@ -21,7 +21,7 @@ const Community = () => {
             <div class="inner">
               <h1 class="major">Tau Beta Pi @ UC San Diego</h1>
               <span class="image fit">
-                <img src="images/DSC_0987.JPG" alt="" />
+                <img src="images/tbpmembers.jpg" alt="" />
               </span>
               <p>
                 The Tau Beta Pi chapter at UC San Diego works to create and network a
@@ -261,6 +261,16 @@ const Community = () => {
                     </span>
                   </div>
                   
+                  <div class="col-4">
+                    <span class="image fit">
+                      <img src="images/headshots_26_27/Titus_Chan.jpg" alt="" />
+                      Titus Chan
+                      <br/>
+                      <b>NANO Representative</b> <br />
+                      <a href="mailto:tic039@ucsd.edu">tic039@ucsd.edu</a>
+                    </span>
+                  </div>
+
                 </div>
               </div>
             </div>

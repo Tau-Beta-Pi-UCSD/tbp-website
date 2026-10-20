@@ -179,7 +179,7 @@ const Initiation = () =>
                         <h2>Candidate Packets</h2>
                         {/* Deadline updated for FA 26 */}
                         <p>
-                            The following materials should be submitted to the "Candidate Packet Submission" google form at the bottom of the list. 
+                            The following materials should be submitted to the "Candidate Packet Submission" Google Form at the bottom of the list. 
                             The submission deadline for the current Initiation Cycle is <b>Thursday, November 19th, 2026 at 11:59 PM (Week 8)</b>. 
                             If any part of your candidate packet is late, you can still initiate. However, there is <b>1 additional academic or service event point required </b>
                             for every component of the candidate packet that is submitted late. The late submission deadline is <b>Thursday, December 3rd, 2026 at 11:59 PM (Week 10)</b>. </p>
@@ -197,8 +197,8 @@ const Initiation = () =>
                                     </tr>
                                     <tr>
                                         <td>Two Faculty Ratings</td>
-                                        {/* Updated for WI 26 */}
-                                        <td><a href="https://forms.gle/ugSAwuSwadrjsQNf8" class="button scrolly">Form</a>
+                                        {/* Updated for FA 26 */}
+                                        <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSd1U0kKDYJxyGrJRcWUsOa4No3bMQP3QXHusya6aCAstMaX0A/viewform?usp=header" class="button scrolly">Form</a>
                                             </td>
                                     </tr>
                                     <tr>
@@ -213,8 +213,8 @@ const Initiation = () =>
                                     </tr>
                                     <tr>
                                         <td>Candidate Packet Submission</td>
-                                        {/* Updated for WI 26 */}
-                                        <td><a href="https://forms.gle/K68F258gJw3dsVGq6" class="button scrolly" Download>Google Form</a></td>
+                                        {/* Updated for FA 26 */}
+                                        <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSf19iOa_K2WwMs5OuSQGbz-hyZEm1pCLERWnyq6eK24-gnm2w/viewform?usp=header" class="button scrolly" Download>Google Form</a></td>
                                     </tr>
                                 </tbody>
                             </table>
