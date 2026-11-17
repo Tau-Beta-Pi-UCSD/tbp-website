@@ -3,7 +3,7 @@ import NavItem from './NavItem'
 
 const NavLinks = props =>
 {
-    const [ active, setActive ] = useState( props.location.pathname.substring( 1 ) )
+    const [ active, setActive ] = useState( props.location.pathname )
 
     const mobileStyle = () =>
     {
@@ -23,7 +23,7 @@ const NavLinks = props =>
                     style={ mobileStyle() }
                 >
                     <NavItem
-                        to='home'
+                        to='/home'
                         name='Home'
                         setActive={ activateLink }
                         active={ active }
@@ -32,22 +32,22 @@ const NavLinks = props =>
                 <li
                     style={ mobileStyle() }
                 >
-                    <NavItem to='initiation' name='Initiation' setActive={ activateLink } active={ active } />
+                    <NavItem to='/initiation' name='Initiation' setActive={ activateLink } active={ active } />
                 </li>
                 <li
                     style={ mobileStyle() }
                 >
-                    <NavItem to='membership' name='Membership' setActive={ activateLink } active={ active } />
+                    <NavItem to='/membership' name='Membership' setActive={ activateLink } active={ active } />
                 </li>
                 <li
                     style={ mobileStyle() }
                 >
-                    <NavItem to='community' name='TBP Community' setActive={ activateLink } active={ active } />
+                    <NavItem to='/community' name='TBP Community' setActive={ activateLink } active={ active } />
                 </li>
                 <li
                     style={ mobileStyle() }
                 >
-                    <NavItem to='events' name='Events' setActive={ activateLink } active={ active } />
+                    <NavItem to='/events' name='Events' setActive={ activateLink } active={ active } />
                 </li>
                 {/* Not something we do right now - Leaving this in case we bring it back - Vincent
                 <li

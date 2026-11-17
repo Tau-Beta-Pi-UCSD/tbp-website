@@ -8,8 +8,8 @@ const Community = () => {
         <title>TBP Community</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-        <link rel="stylesheet" href="assets/css/main.css" />
-        <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+        <link rel="stylesheet" href="%PUBLIC_URL%/assets/css/main.css" />
+        <noscript><link rel="stylesheet" href="%PUBLIC_URL%/assets/css/noscript.css" /></noscript>
       </head>
       <body>
 
@@ -21,7 +21,7 @@ const Community = () => {
             <div class="inner">
               <h1 class="major">Tau Beta Pi @ UC San Diego</h1>
               <span class="image fit">
-                <img src="images/tbpmembers.jpg" alt="" />
+                <img src={`${process.env.PUBLIC_URL}/images/tbpmembers.jpg`} alt="" />
               </span>
               <p>
                 The Tau Beta Pi chapter at UC San Diego works to create and network a
@@ -35,7 +35,7 @@ const Community = () => {
           <section id="one" class="wrapper style1 spotlights">
             <section>
               <a href="https://www.tbp.org/recruit/recruitHome.cfm" class="image">
-                <img src="images/DSC_0814.JPG" height="100%" width="115%" alt="" data-position="25% 25%" />
+                <img src={`${process.env.PUBLIC_URL}/images/DSC_0814.JPG`} height="100%" width="115%" alt="" data-position="25% 25%" />
               </a>
 
               <div class="content">
@@ -73,7 +73,7 @@ const Community = () => {
                   
                    <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_25_26/iris hochwalt.jpg" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_25_26/iris hochwalt.jpg`} alt="" />
                       Iris Hochwalt
                       <br />
                       <b>President</b> <br />
@@ -83,7 +83,7 @@ const Community = () => {
                   
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_25_26/Malia_Lewton.JPG" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_25_26/Malia_Lewton.JPG`} alt="" />
                       Malia Lewton
                       <br />
                       <b>President</b> <br />
@@ -93,7 +93,7 @@ const Community = () => {
                   
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_26_27/Annie_Yang.JPG" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_26_27/Annie_Yang.JPG`} alt="" />
                       Annie Yang
                       <br />
                       <b>VP External</b> <br />
@@ -103,7 +103,7 @@ const Community = () => {
 
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_26_27/Rosslyn_Farnan.JPG" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_26_27/Rosslyn_Farnan.JPG`} alt="" />
                       Rosslyn Farnan
                       <br />
                       <b>VP External</b> <br />
@@ -113,7 +113,7 @@ const Community = () => {
 
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_25_26/Tom_Klappenecker.jpg" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_25_26/Tom_Klappenecker.jpg`} alt="" />
                       Tom Klappenecker
                       <br />
                       <b>VP Internal</b> <br />
@@ -123,7 +123,7 @@ const Community = () => {
                   
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_26_27/Griffin_Harper.jpeg" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_26_27/Griffin_Harper.jpeg`} alt="" />
                       Griffin Harper
                       <br />
                       <b>VP Finance</b> <br />
@@ -133,7 +133,7 @@ const Community = () => {
                   
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_25_26/michael he.PNG" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_25_26/michael he.PNG`} alt="" />
                       Michael He
                       <br />
                       <b>Secretary</b> <br />
@@ -143,7 +143,7 @@ const Community = () => {
                   
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_26_27/Connor_Lin.jpg" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_26_27/Connor_Lin.jpg`} alt="" />
                       Connor Lin
                       <br />
                       <b>Social Chair</b> <br />
@@ -153,7 +153,7 @@ const Community = () => {
 
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_26_27/Mackenzie_Funk.jpeg" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_26_27/Mackenzie_Funk.jpeg`} alt="" />
                       Mackenzie Funk
                       <br />
                       <b>Social Chair</b> <br />
@@ -163,7 +163,7 @@ const Community = () => {
 
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_25_26/Natasha_Liu.jpg" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_25_26/Natasha_Liu.jpg`} alt="" />
                       Natasha Liu
                       <br />
                       <b>Technology Chair</b> <br />
@@ -173,7 +173,7 @@ const Community = () => {
 
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_26_27/Steven_Li.JPG" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_26_27/Steven_Li.JPG`} alt="" />
                       Steven Li
                       <br />
                       <b>Outreach & Service Chair</b> <br />
@@ -183,7 +183,7 @@ const Community = () => {
 
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_26_27/Jonathan_Rao.jpg" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_26_27/Jonathan_Rao.jpg`} alt="" />
                       Jonathan Rao
                       <br />
                       <b>Historian</b> <br />
@@ -193,7 +193,7 @@ const Community = () => {
 
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_26_27/Neal_Jian.jpg" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_26_27/Neal_Jian.jpg`} alt="" />
                       Neal Jian
                       <br/>
                       <b>ECE Representative</b> <br />
@@ -203,7 +203,7 @@ const Community = () => {
 
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_26_27/Chloe_Hurteau.jpg" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_26_27/Chloe_Hurteau.jpg`} alt="" />
                       Chloe Hurteau
                       <br/>
                       <b>BENG Representative</b> <br />
@@ -213,7 +213,7 @@ const Community = () => {
 
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_25_26/Megan Chen.png" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_25_26/Megan Chen.png`} alt="" />
                       Megan Chen
                       <br/>
                       <b>BENG Representative</b> <br />
@@ -223,7 +223,7 @@ const Community = () => {
 
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_26_27/Phuong_Dinh.jpeg" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_26_27/Phuong_Dinh.jpeg`} alt="" />
                       Sophia Dinh
                       <br/>
                       <b>CSE Representative</b> <br />
@@ -233,7 +233,7 @@ const Community = () => {
 
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_26_27/Rahul_Punji.jpg" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_26_27/Rahul_Punji.jpg`} alt="" />
                       Rahul Punji
                       <br/>
                       <b>CSE Representative</b> <br />
@@ -243,7 +243,7 @@ const Community = () => {
 
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_26_27/Sameer_Patel.jpg" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_26_27/Sameer_Patel.jpg`} alt="" />
                       Sameer Patel
                       <br/>
                       <b>MAE Representative</b> <br />
@@ -253,7 +253,7 @@ const Community = () => {
 
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_26_27/Nicholas_Lord.JPG" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_26_27/Nicholas_Lord.JPG`} alt="" />
                       Nicholas Lord
                       <br/>
                       <b>NANO Representative</b> <br />
@@ -263,7 +263,7 @@ const Community = () => {
                   
                   <div class="col-4">
                     <span class="image fit">
-                      <img src="images/headshots_26_27/Titus_Chan.jpg" alt="" />
+                      <img src={`${process.env.PUBLIC_URL}/images/headshots_26_27/Titus_Chan.jpg`} alt="" />
                       Titus Chan
                       <br/>
                       <b>NANO Representative</b> <br />
@@ -350,7 +350,7 @@ const Community = () => {
           <section id="four" class="wrapper style2 spotlights">
             <section>
               <div class="image">
-                <img src="images/DSC_0154.JPG" height="100%" width="110%" alt="" data-position="25% 25%" />
+                <img src={`${process.env.PUBLIC_URL}/images/DSC_0154.JPG`} height="100%" width="110%" alt="" data-position="25% 25%" />
               </div>
               <div class="content">
                 <div class="inner">
@@ -392,7 +392,7 @@ const Community = () => {
             <section>
               <div class="image" >
                 <img
-                  src="images/AnselAward.JPG"
+                  src={`${process.env.PUBLIC_URL}/images/AnselAward.JPG`}
                   height="100%" width="110%"
                   alt=""
                   class="center"

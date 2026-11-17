@@ -42,7 +42,10 @@ const NavBar = props =>
             return (
                 <section class="" style={ styles.headerMenu }>
                     <div class="inner">
-                        <NavLinks { ...props } mobile={ true } close={ () => setActive( false ) } />
+                        <NavLinks { ...props } mobile={ true } close={ () => {
+                            document.body.style.overflow = '';
+                            setActive(false);
+                        } } />
                     </div>
                 </section>
             )

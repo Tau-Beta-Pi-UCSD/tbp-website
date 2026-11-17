@@ -1,10 +1,11 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 
 const NavItem = props =>
 {
     return (
-        <a
-            href={ props.to }
+        <Link
+            to={ props.to }
             style={ {
                 ...( props.active === props.to ) ? { color: 'white' } : {},
                 border: 'none',
@@ -17,7 +18,7 @@ const NavItem = props =>
             <div>
                 { props.name }
             </div>
-        </a>
+        </Link>
     )
 }
 

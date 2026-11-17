@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import { Link } from 'react-router-dom';
 import Events from '../components/Events'
 import NavBar from '../components/NavBar'
 export class Home extends Component
@@ -20,17 +21,22 @@ export class Home extends Component
                             <p>Most prominent engineering honor society since 1994. Focusing on serving our members and the
                             public to promote integrity and excellence in engineering. </p>
                             <ul class="actions">
-                                <li><a href="initiation" class="button scrolly">Join Us</a></li>
-                                <li><a href="https://tbp.ucsd.edu/points" class="button scrolly">Point Tracking App</a></li>
-                                <li><a href="events" class="button scrolly">Our Events</a></li>
-                                <li><a href="#contact" class="button scrolly">Contact Us</a></li>
+                                <li><Link to="/initiation" className="button scrolly">Join Us</Link></li>
+                                {/*<li><a href="https://tbp.ucsd.edu/points" class="button scrolly">Point Tracking App</a></li>*/}
+                                <li><Link to="/events" className="button scrolly">Our Events</Link></li>
+                                <li><a 
+                                        href="#/home" className="button scrolly"
+                                        onClick={(e) => {
+                                            e.preventDefault();
+                                            document.getElementById('contact')?.scrollIntoView();
+                                        }}>Contact Us</a></li>
                             </ul>
                         </div>
                     </section>
 
                     <section id="who" class="wrapper style2 spotlights">
                         <section>
-                            <div class="image"><img src="images/photos_25_26/IMG_7811.jpg" height="100%" width="110%" alt="" data-position="25% 25%" />
+                            <div class="image"><img src={`${process.env.PUBLIC_URL}/images/photos_25_26/IMG_7811.jpg`} height="100%" width="110%" alt="" data-position="25% 25%" />
                             </div>
                             <div class="content">
                                 <div class="inner">
@@ -41,7 +47,7 @@ export class Home extends Component
                                     nurturing our integrity, character, and charitability through hosting events.
 						</p>
                                     <ul class="actions">
-                                        <li><a href="community" class="button">Explore Our Chapter</a></li>
+                                        <li><Link to="/community" class="button">Explore Our Chapter</Link></li>
                                     </ul>
                                 </div>
                             </div>
@@ -50,8 +56,8 @@ export class Home extends Component
 
                     <section id="join" class="wrapper style1 spotlights">
                         <section>
-                            <a href="initiation" class="image"><img src="images/DSC_0015.JPG" height="100%" width="110%" alt=""
-                                data-position="center center" /></a>
+                            <Link to="/initiation" class="image"><img src={`${process.env.PUBLIC_URL}/images/DSC_0015.JPG`} height="100%" width="110%" alt=""
+                                data-position="center center" /></Link>
                             <div class="content">
                                 <div class="inner">
                                     <h2>Invitations</h2>
@@ -60,21 +66,21 @@ export class Home extends Component
 							quarter.
 							After being invited it's up to you to initiate.</p>
                                     <ul class="actions">
-                                        <li><a href="initiation" class="button">Explore Initiation</a></li>
+                                        <li><Link to="/initiation" class="button">Explore Initiation</Link></li>
                                     </ul>
                                 </div>
                             </div>
                         </section>
                         <section>
-                            <a href="membership" class="image"><img src="images/DSC_0633.JPG" height="100%" width="110%" alt=""
-                                data-position="top center" /></a>
+                            <Link to="/membership" class="image"><img src={`${process.env.PUBLIC_URL}/images/DSC_0633.JPG`} height="100%" width="110%" alt=""
+                                data-position="top center" /></Link>
                             <div class="content">
                                 <div class="inner">
                                     <h2>Why Join?</h2>
                                     <p>Membership provides you access to our events and networking opportunities that will help you
 							succeed in your future career.</p>
                                     <ul class="actions">
-                                        <li><a href="membership" class="button">Explore Membership Benefits</a></li>
+                                        <li><Link to="/membership" class="button">Explore Membership Benefits</Link></li>
                                     </ul>
                                 </div>
                             </div>
@@ -101,7 +107,7 @@ export class Home extends Component
                                         <ul class="icons">
                                             <li><a href="https://www.facebook.com/tbpucsd/" class="fa-facebook"><span
                                                 class="label">Facebook</span></a></li>
-                                            <li><a href="https://www.linkedin.com/company/tau-beta-pi-california-psi/"
+                                            <li><a href="https://www.linkedin.com/company/tau-beta-pi-ucsd/"
                                                 class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
                                             <li><a href = "https://www.instagram.com/tbp.atucsd/" class="fa-instagram"><span class="label">Instagram</span></a></li>
                                         </ul>

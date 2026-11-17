@@ -8,8 +8,8 @@ const Initiation = () =>
             <title>TBP Initiation</title>
             <meta charset="utf-8" />
             <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-            <link rel="stylesheet" href="assets/css/main.css" />
-            <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+            <link rel="stylesheet" href="%PUBLIC_URL%/assets/css/main.css" />
+            <noscript><link rel="stylesheet" href="%PUBLIC_URL%/assets/css/noscript.css" /></noscript>
         </head>
         <body>
 
@@ -23,7 +23,7 @@ const Initiation = () =>
                         <p>The Tau Beta Pi chapter at UC San Diego conducts two Initiations per academic year. Invitations to eligible students are mailed out during Weeks 1 and 2 of the Fall and Winter academic quarters to students in the <b>top 1/8th of the Junior class</b> and <b>top 1/5th of the Senior class</b>. For students to have Junior Class standing, they must have completed 90-135 units. To qualify for Senior Class standing, students must have completed over 135 units. In addition, students must have attended UC San Diego for at least one full academic year.</p>
                         <p>After invitations are sent out, info sessions are held for the the invited students to inform them about the initiation process to become a member. During the Initiation Cycle (approximately a 10 week period), initiates will distinguish themselves through their academic excellence and, more significantly, outstanding character. To demonstrate these qualities, initiates will submit a candidate packet that will reflect these qualities, and participate in events with Tau Beta Pi members and officers to gain a sense of the TBP community. After initiate packets are reviewed, initiates will undergo individual interviews conducted by an officer. At this point, initiates who exemplify the qualities of Tau Beta Pi will be invited to the Initiation Ceremony to become Tau Beta Pi members.</p>
                         <p><strong>Once you initiate, you are a lifetime member.</strong> If you continue to come to UCSD's Tau Beta Pi events and retain active membership, you will be eligible for chapter benefits.</p>
-                        <span class="image fit"><img src="images/photos_25_26/IMG_7824.jpg" alt="" /></span>
+                        <span class="image fit"><img src={`${process.env.PUBLIC_URL}/images/photos_25_26/IMG_7824.jpg`} alt="" /></span>
 
                     </div>
                 </section>
@@ -31,12 +31,26 @@ const Initiation = () =>
                 <section id="points" class="wrapper style1">
                     <div class="inner">
                         <h2>Points Requirement</h2>
-                        <p>We require eligible initiates to either use our <a href="/points">point tracking app</a> over the course of their Initiation Cycle. A complete list of point requirements for <a href='#g-points'>graduate</a> and <a href='#u-points'>undergraduate</a> students can be found in the section after this one.</p>
+                        <p>{/*We require eligible initiates to use our <a href="/points"><b>point tracking app</b></a> over the course of their Initiation Cycle.*/} We require eligible initiates to attend some of our events over the course of the Initiation Cycle. A complete list of point requirements for 
+                            <a
+                                href="#/initiation"
+                                onClick={(e) => {
+                                    e.preventDefault();
+                                    document.getElementById('g-points')?.scrollIntoView();
+                                }}
+                            > graduate
+                            </a> and <a 
+                                href='#/initiation'
+                                onClick={(e) => {
+                                    e.preventDefault();
+                                    document.getElementById('u-points')?.scrollIntoView();
+                                }}
+                            >undergraduate</a> students can be found in the section after this one.</p>
 
-                        <p>With the exception of <b>Social</b> events which award 1 point per event, points are usually given at a rate of 1 point per hour and require a sign off from a TBP officer as witness of your attendance.</p>
+                        <p>With the exception of <b>Social</b> events which award 1 point per event, points are usually given at a rate of 1 point per hour and require a sign off from a TBP officer as witness of your attendance. We will have an updated Points App for the Winter 2027 cycle so initiates can keep track of events they have attended individually.</p>
                         {/* I don't think we need this anymore. I don't even know what year this guy was from - Vincent
                         <p>If you do not use the app, the point verification form must be turned in on the day of Initiation. While 10 - 15 points might seem like a lot, last cycle initiate Nicholas Limit obtained <b>over 50 points!</b></p>*/}
-                        <a href="/points" class="button scrolly" >Points App</a>
+                        {/*<a href="/points" class="button scrolly" >Points App</a>*/}
                     </div>
                 </section>
 
@@ -155,7 +169,7 @@ const Initiation = () =>
                             data-position="center center" /></div> */}
                         <div class="content">
                             <div class="inner">
-                                {/* Updated for WI 26 */}
+                                {/* Updated for FA 26 */}
                                 <h2>T-Shirt Design Competition</h2>
                                 <p>
                                     Open to all initiates, the T-Shirt Design Competition is a chance to show off your creativity and design skills. 
@@ -165,10 +179,10 @@ const Initiation = () =>
                                 </p>
                                 <p>
                                     {/* Updated for FA 26 */}
-                                    Designs are due <b>TBD</b> for the Fall 2026 cycle.
+                                    Designs are due <b>January 3rd, 2027</b> for the Fall 2026 cycle. The winner will be announced on <b>January 24th, 2027</b>.
                                 </p>
                                 <a href="https://drive.google.com/drive/folders/1BAxYmNOCEgjdDSYVBpV1HBcKz8HOoXVg?usp=sharing" class="button scrolly">Sample Designs</a>
-                                <a href="https://docs.google.com/forms/d/e/1FAIpQLScn3gsZ-ftekQG3taZ4QKIzI_NwAlc4He4gjNw9DOHMubic3w/viewform?usp=sf_link" class="button scrolly">Submission Link</a>
+                                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVlbL5DCfGnYUKBdF_P8_oISv3sE5ppZne9qtUu3y-0Rc7aw/viewform" class="button scrolly">Submission Link</a>
 
                             </div>
                         </div>
@@ -188,12 +202,12 @@ const Initiation = () =>
                                 <tbody>
                                     <tr>
                                         <td>Personal Statement</td>
-                                        <td><a href="/resource/packet/Sample_Statement.pdf" class="button scrolly" Download>Sample 1</a>
-                                            <a href="/resource/packet/Sample_Statement2.pdf" class="button scrolly" Download>Sample 2</a></td>
+                                        <td><a href={`${process.env.PUBLIC_URL}/resource/packet/Sample_Statement.pdf`} class="button scrolly" Download>Sample 1</a>
+                                            <a href={`${process.env.PUBLIC_URL}/resource/packet/Sample_Statement2.pdf`} class="button scrolly" Download>Sample 2</a></td>
                                     </tr>
                                     <tr>
                                         <td>Current Resumé</td>
-                                        <td><a href="/resource/packet/Sample_Resume.pdf" class="button scrolly" Download>Sample Resume</a></td>
+                                        <td><a href={`${process.env.PUBLIC_URL}/resource/packet/Sample_Resume.pdf`} class="button scrolly" Download>Sample Resume</a></td>
                                     </tr>
                                     <tr>
                                         <td>Two Faculty Ratings</td>
@@ -203,11 +217,11 @@ const Initiation = () =>
                                     </tr>
                                     <tr>
                                         <td>Academic Honesty Statement</td>
-                                        <td><a href="/resource/packet/Academic_Honesty_Statement.pdf" class="button scrolly" Download>Download Form</a></td>
+                                        <td><a href={`${process.env.PUBLIC_URL}/resource/packet/Academic_Honesty_Statement.pdf`} class="button scrolly" Download>Download Form</a></td>
                                     </tr>
                                     <tr>
                                         <td>Class Checklist</td>
-                                        <td><a href="/resource/packet/Class_Checklist_Template.xlsx" class="button scrolly" Download>Download Template</a></td>
+                                        <td><a href={`${process.env.PUBLIC_URL}/resource/packet/Class_Checklist_Template.xlsx`} class="button scrolly" Download>Download Template</a></td>
                                     </tr>
                                     <tr>
                                     </tr>

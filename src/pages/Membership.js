@@ -9,8 +9,8 @@ const Membership = () =>
                 <title>TBP Membership</title>
                 <meta charset="utf-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-                <link rel="stylesheet" href="assets/css/main.css" />
-                <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+                <link rel="stylesheet" href="%PUBLIC_URL%/assets/css/main.css" />
+                <noscript><link rel="stylesheet" href="%PUBLIC_URL%/assets/css/noscript.css" /></noscript>
             </head>
             <body>
 
@@ -78,7 +78,7 @@ const Membership = () =>
 
                     <section id="leadership" class="wrapper style1 spotlights">
                         <section>
-                            <div href="#" class="image"><img src="images/DSC_1062.JPG" height="100%" width="110%" alt="" data-position="25% 25%" /></div>
+                            <div href="#" class="image"><img src={`${process.env.PUBLIC_URL}/images/DSC_1062.JPG`} height="100%" width="110%" alt="" data-position="25% 25%" /></div>
                             <div class="content">
                                 <div class="inner">
                                     <h2>Leadership Opportunities</h2>
@@ -94,7 +94,7 @@ const Membership = () =>
 
                     <section id="networking" class="wrapper style2 spotlights">
                         <section>
-                            <div href="#" class="image"><img src="images/DSC_0608.JPG" height="100%" width="110%" alt="" data-position="25% 25%" /></div>
+                            <div href="#" class="image"><img src={`${process.env.PUBLIC_URL}/images/DSC_0608.JPG`} height="100%" width="110%" alt="" data-position="25% 25%" /></div>
                             <div class="content">
                                 <div class="inner">
                                     <h2>Networking Opportunities</h2>
